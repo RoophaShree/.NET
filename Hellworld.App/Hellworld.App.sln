@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hellworld.App", "Hellworld.App.csproj", "{355C213A-0548-4810-91C7-26E324023E25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355C213A-0548-4810-91C7-26E324023E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355C213A-0548-4810-91C7-26E324023E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355C213A-0548-4810-91C7-26E324023E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355C213A-0548-4810-91C7-26E324023E25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAAE335C-A641-430B-ADA1-DE4C50C6DD08}
+	EndGlobalSection
+EndGlobal
