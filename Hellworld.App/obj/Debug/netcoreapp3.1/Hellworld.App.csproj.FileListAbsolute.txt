@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Hellworld.App\bin\Debug\netcoreapp3.1\Hellworld.App.exe
+D:\Study\.NetProgramming\ConsoleProjects\Hellworld.App\bin\Debug\netcoreapp3.1\Hellworld.App.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Hellworld.App\bin\Debug\netcoreapp3.1\Hellworld.App.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Hellworld.App\bin\Debug\netcoreapp3.1\Hellworld.App.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Hellworld.App\bin\Debug\netcoreapp3.1\Hellworld.App.dll
+D:\Study\.NetProgramming\ConsoleProjects\Hellworld.App\bin\Debug\netcoreapp3.1\Hellworld.App.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Hellworld.App\obj\Debug\netcoreapp3.1\Hellworld.App.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Hellworld.App\obj\Debug\netcoreapp3.1\Hellworld.App.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Hellworld.App\obj\Debug\netcoreapp3.1\Hellworld.App.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Hellworld.App\obj\Debug\netcoreapp3.1\Hellworld.App.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Hellworld.App\obj\Debug\netcoreapp3.1\Hellworld.App.dll
+D:\Study\.NetProgramming\ConsoleProjects\Hellworld.App\obj\Debug\netcoreapp3.1\Hellworld.App.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Hellworld.App\obj\Debug\netcoreapp3.1\Hellworld.App.genruntimeconfig.cache
