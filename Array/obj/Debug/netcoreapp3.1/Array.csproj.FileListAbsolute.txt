@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Array\bin\Debug\netcoreapp3.1\Array.exe
+D:\Study\.NetProgramming\ConsoleProjects\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Array\bin\Debug\netcoreapp3.1\Array.dll
+D:\Study\.NetProgramming\ConsoleProjects\Array\bin\Debug\netcoreapp3.1\Array.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Array\obj\Debug\netcoreapp3.1\Array.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Array\obj\Debug\netcoreapp3.1\Array.dll
+D:\Study\.NetProgramming\ConsoleProjects\Array\obj\Debug\netcoreapp3.1\Array.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
