@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Reversal of a string\bin\Debug\netcoreapp3.1\Reversal of a string.exe
+D:\Study\.NetProgramming\ConsoleProjects\Reversal of a string\bin\Debug\netcoreapp3.1\Reversal of a string.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Reversal of a string\bin\Debug\netcoreapp3.1\Reversal of a string.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Reversal of a string\bin\Debug\netcoreapp3.1\Reversal of a string.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Reversal of a string\bin\Debug\netcoreapp3.1\Reversal of a string.dll
+D:\Study\.NetProgramming\ConsoleProjects\Reversal of a string\bin\Debug\netcoreapp3.1\Reversal of a string.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Reversal of a string\obj\Debug\netcoreapp3.1\Reversal of a string.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Reversal of a string\obj\Debug\netcoreapp3.1\Reversal of a string.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Reversal of a string\obj\Debug\netcoreapp3.1\Reversal of a string.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Reversal of a string\obj\Debug\netcoreapp3.1\Reversal of a string.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Reversal of a string\obj\Debug\netcoreapp3.1\Reversal of a string.dll
+D:\Study\.NetProgramming\ConsoleProjects\Reversal of a string\obj\Debug\netcoreapp3.1\Reversal of a string.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Reversal of a string\obj\Debug\netcoreapp3.1\Reversal of a string.genruntimeconfig.cache
