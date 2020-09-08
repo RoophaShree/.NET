@@ -10,7 +10,6 @@ namespace Reversal_of_a_string
             myStr = "RoopaShree";
             rev = "";
             Console.WriteLine("String is {0}", myStr);
-            // find string length
             int len;
             len = myStr.Length - 1;
             while (len >= 0)
