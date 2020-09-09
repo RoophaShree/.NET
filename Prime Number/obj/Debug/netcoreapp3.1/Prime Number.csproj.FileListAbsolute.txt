@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.exe
+D:\Study\.NetProgramming\ConsoleProjects\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.dll
+D:\Study\.NetProgramming\ConsoleProjects\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.dll
+D:\Study\.NetProgramming\ConsoleProjects\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.genruntimeconfig.cache
