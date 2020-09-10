@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Using_Break\bin\Debug\netcoreapp3.1\Using_Break.exe
+D:\Study\.NetProgramming\ConsoleProjects\Using_Break\bin\Debug\netcoreapp3.1\Using_Break.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Using_Break\bin\Debug\netcoreapp3.1\Using_Break.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Using_Break\bin\Debug\netcoreapp3.1\Using_Break.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Using_Break\bin\Debug\netcoreapp3.1\Using_Break.dll
+D:\Study\.NetProgramming\ConsoleProjects\Using_Break\bin\Debug\netcoreapp3.1\Using_Break.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Using_Break\obj\Debug\netcoreapp3.1\Using_Break.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Using_Break\obj\Debug\netcoreapp3.1\Using_Break.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Using_Break\obj\Debug\netcoreapp3.1\Using_Break.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Using_Break\obj\Debug\netcoreapp3.1\Using_Break.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Using_Break\obj\Debug\netcoreapp3.1\Using_Break.dll
+D:\Study\.NetProgramming\ConsoleProjects\Using_Break\obj\Debug\netcoreapp3.1\Using_Break.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Using_Break\obj\Debug\netcoreapp3.1\Using_Break.genruntimeconfig.cache
