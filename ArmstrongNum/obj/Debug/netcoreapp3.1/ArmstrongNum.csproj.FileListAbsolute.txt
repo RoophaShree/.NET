@@ -1,0 +1,12 @@
+D:\Study\.NetProgramming\ConsoleProjects\ArmstrongNum\bin\Debug\netcoreapp3.1\ArmstrongNum.exe
+D:\Study\.NetProgramming\ConsoleProjects\ArmstrongNum\bin\Debug\netcoreapp3.1\ArmstrongNum.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\ArmstrongNum\bin\Debug\netcoreapp3.1\ArmstrongNum.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\ArmstrongNum\bin\Debug\netcoreapp3.1\ArmstrongNum.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\ArmstrongNum\bin\Debug\netcoreapp3.1\ArmstrongNum.dll
+D:\Study\.NetProgramming\ConsoleProjects\ArmstrongNum\bin\Debug\netcoreapp3.1\ArmstrongNum.pdb
+D:\Study\.NetProgramming\ConsoleProjects\ArmstrongNum\obj\Debug\netcoreapp3.1\ArmstrongNum.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\ArmstrongNum\obj\Debug\netcoreapp3.1\ArmstrongNum.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\ArmstrongNum\obj\Debug\netcoreapp3.1\ArmstrongNum.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\ArmstrongNum\obj\Debug\netcoreapp3.1\ArmstrongNum.dll
+D:\Study\.NetProgramming\ConsoleProjects\ArmstrongNum\obj\Debug\netcoreapp3.1\ArmstrongNum.pdb
+D:\Study\.NetProgramming\ConsoleProjects\ArmstrongNum\obj\Debug\netcoreapp3.1\ArmstrongNum.genruntimeconfig.cache
