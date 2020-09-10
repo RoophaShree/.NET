@@ -15,7 +15,7 @@ namespace Reversal_of_Numbers
                 reverse = reverse * 10 + rem;
                 n /= 10;
             }
-            Console.Write("Reversed Number is: " + reverse);
+            Console.Write("Reversed Number is= " + reverse);
         }
     }
 }
