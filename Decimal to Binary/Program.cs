@@ -8,7 +8,7 @@ namespace Decimal_to_Binary
         {
             int n, i;
             int[] a = new int[10];
-            Console.Write("Enter the number to convert: ");
+            Console.Write("Enter the number to convert=");
             n = int.Parse(Console.ReadLine());
             for (i = 0; n > 0; i++)
             {
