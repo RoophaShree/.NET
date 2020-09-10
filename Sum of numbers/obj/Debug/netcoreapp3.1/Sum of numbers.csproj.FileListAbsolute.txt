@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Sum of numbers\bin\Debug\netcoreapp3.1\Sum of numbers.exe
+D:\Study\.NetProgramming\ConsoleProjects\Sum of numbers\bin\Debug\netcoreapp3.1\Sum of numbers.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Sum of numbers\bin\Debug\netcoreapp3.1\Sum of numbers.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Sum of numbers\bin\Debug\netcoreapp3.1\Sum of numbers.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Sum of numbers\bin\Debug\netcoreapp3.1\Sum of numbers.dll
+D:\Study\.NetProgramming\ConsoleProjects\Sum of numbers\bin\Debug\netcoreapp3.1\Sum of numbers.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Sum of numbers\obj\Debug\netcoreapp3.1\Sum of numbers.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Sum of numbers\obj\Debug\netcoreapp3.1\Sum of numbers.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Sum of numbers\obj\Debug\netcoreapp3.1\Sum of numbers.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Sum of numbers\obj\Debug\netcoreapp3.1\Sum of numbers.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Sum of numbers\obj\Debug\netcoreapp3.1\Sum of numbers.dll
+D:\Study\.NetProgramming\ConsoleProjects\Sum of numbers\obj\Debug\netcoreapp3.1\Sum of numbers.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Sum of numbers\obj\Debug\netcoreapp3.1\Sum of numbers.genruntimeconfig.cache
