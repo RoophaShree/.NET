@@ -15,7 +15,7 @@ namespace Sum_of_numbers
                 sum = sum + m;
                 n = n / 10;
             }
-            Console.Write("Sum is= " + sum);
+            Console.Write("The Sum of numbers: " + sum);
         }
     }
 }
