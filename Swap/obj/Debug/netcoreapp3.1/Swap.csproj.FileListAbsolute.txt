@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Swap\bin\Debug\netcoreapp3.1\Swap.exe
+D:\Study\.NetProgramming\ConsoleProjects\Swap\bin\Debug\netcoreapp3.1\Swap.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Swap\bin\Debug\netcoreapp3.1\Swap.dll
+D:\Study\.NetProgramming\ConsoleProjects\Swap\bin\Debug\netcoreapp3.1\Swap.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Swap\obj\Debug\netcoreapp3.1\Swap.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Swap\obj\Debug\netcoreapp3.1\Swap.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Swap\obj\Debug\netcoreapp3.1\Swap.dll
+D:\Study\.NetProgramming\ConsoleProjects\Swap\obj\Debug\netcoreapp3.1\Swap.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Swap\obj\Debug\netcoreapp3.1\Swap.genruntimeconfig.cache
