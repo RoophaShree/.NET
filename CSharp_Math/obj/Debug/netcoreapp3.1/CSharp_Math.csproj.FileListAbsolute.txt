@@ -1,0 +1,12 @@
+D:\Study\.NetProgramming\ConsoleProjects\CSharp_Math\bin\Debug\netcoreapp3.1\CSharp_Math.exe
+D:\Study\.NetProgramming\ConsoleProjects\CSharp_Math\bin\Debug\netcoreapp3.1\CSharp_Math.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\CSharp_Math\bin\Debug\netcoreapp3.1\CSharp_Math.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\CSharp_Math\bin\Debug\netcoreapp3.1\CSharp_Math.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\CSharp_Math\bin\Debug\netcoreapp3.1\CSharp_Math.dll
+D:\Study\.NetProgramming\ConsoleProjects\CSharp_Math\bin\Debug\netcoreapp3.1\CSharp_Math.pdb
+D:\Study\.NetProgramming\ConsoleProjects\CSharp_Math\obj\Debug\netcoreapp3.1\CSharp_Math.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\CSharp_Math\obj\Debug\netcoreapp3.1\CSharp_Math.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\CSharp_Math\obj\Debug\netcoreapp3.1\CSharp_Math.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\CSharp_Math\obj\Debug\netcoreapp3.1\CSharp_Math.dll
+D:\Study\.NetProgramming\ConsoleProjects\CSharp_Math\obj\Debug\netcoreapp3.1\CSharp_Math.pdb
+D:\Study\.NetProgramming\ConsoleProjects\CSharp_Math\obj\Debug\netcoreapp3.1\CSharp_Math.genruntimeconfig.cache
