@@ -7,6 +7,7 @@ namespace CSharp_Math
         static void Main(string[] args)
         {
             Console.WriteLine(Math.Max(5, 10));
+            Console.WriteLine(Math.Min(5, 10));
         }
     }
 }
