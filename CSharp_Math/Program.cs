@@ -9,6 +9,7 @@ namespace CSharp_Math
             Console.WriteLine(Math.Max(5, 10));
             Console.WriteLine(Math.Min(5, 10));
             Console.WriteLine(Math.Sqrt(64));
+            Console.WriteLine(Math.Abs(-4.7));
         }
     }
 }
