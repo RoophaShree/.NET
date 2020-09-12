@@ -13,6 +13,9 @@ namespace CSharp_Math
             Console.WriteLine(Math.Round(9.99));
             string txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
             Console.WriteLine("The length of the txt string is: " + txt.Length);
+            string txt1 = "Hello World";
+            Console.WriteLine(txt1.ToUpper());  
+            Console.WriteLine(txt1.ToLower());
         }
     }
 }
