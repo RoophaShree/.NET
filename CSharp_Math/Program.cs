@@ -20,6 +20,10 @@ namespace CSharp_Math
             string lastName = "Doe";
             string name = firstName + lastName;
             Console.WriteLine(name);
+            string firstName1 = "John";
+            string lastName1 = "Doe";
+            string name1 = $"My full name is: {firstName1} {lastName1}";
+            Console.WriteLine(name);
         }
     }
 }
