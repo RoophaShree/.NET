@@ -16,6 +16,10 @@ namespace CSharp_Math
             string txt1 = "Hello World";
             Console.WriteLine(txt1.ToUpper());  
             Console.WriteLine(txt1.ToLower());
+            string firstName = "John ";
+            string lastName = "Doe";
+            string name = firstName + lastName;
+            Console.WriteLine(name);
         }
     }
 }
