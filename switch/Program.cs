@@ -6,7 +6,7 @@ namespace switch1
 {
     static void Main(string[] args)
     {
-        int day = 1;
+        int day = 0;
         switch (day)
         {
             case 1:
@@ -30,7 +30,16 @@ namespace switch1
             case 7:
                 Console.WriteLine("Sunday");
                 break;
-        }
+                case 8:
+                    Console.WriteLine("Today is Saturday.");
+                    break;
+                case 9:
+                    Console.WriteLine("Today is Sunday.");
+                    break;
+                default:
+                    Console.WriteLine("Looking forward to the Weekend.");
+                    break;
+            }
     }
 }
 }
