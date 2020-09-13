@@ -6,8 +6,8 @@ namespace Booleans
     {
         static void Main(string[] args)
         {
-            bool isCSharpFun = true;
-            bool isFishTasty = false;
+            bool isCSharpFun = false;
+            bool isFishTasty = true;
             Console.WriteLine(isCSharpFun);   
             Console.WriteLine(isFishTasty);
         }
