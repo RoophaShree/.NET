@@ -1,0 +1,12 @@
+D:\Study\.NetProgramming\ConsoleProjects\if_else\bin\Debug\netcoreapp3.1\if_else.exe
+D:\Study\.NetProgramming\ConsoleProjects\if_else\bin\Debug\netcoreapp3.1\if_else.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\if_else\bin\Debug\netcoreapp3.1\if_else.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\if_else\bin\Debug\netcoreapp3.1\if_else.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\if_else\bin\Debug\netcoreapp3.1\if_else.dll
+D:\Study\.NetProgramming\ConsoleProjects\if_else\bin\Debug\netcoreapp3.1\if_else.pdb
+D:\Study\.NetProgramming\ConsoleProjects\if_else\obj\Debug\netcoreapp3.1\if_else.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\if_else\obj\Debug\netcoreapp3.1\if_else.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\if_else\obj\Debug\netcoreapp3.1\if_else.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\if_else\obj\Debug\netcoreapp3.1\if_else.dll
+D:\Study\.NetProgramming\ConsoleProjects\if_else\obj\Debug\netcoreapp3.1\if_else.pdb
+D:\Study\.NetProgramming\ConsoleProjects\if_else\obj\Debug\netcoreapp3.1\if_else.genruntimeconfig.cache
