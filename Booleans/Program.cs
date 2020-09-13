@@ -10,6 +10,9 @@ namespace Booleans
             bool isFishTasty = true;
             Console.WriteLine(isCSharpFun);   
             Console.WriteLine(isFishTasty);
+            int x = 10;
+            int y = 9;
+            Console.WriteLine(x > y);
         }
     }
 }
