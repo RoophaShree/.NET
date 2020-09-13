@@ -6,6 +6,19 @@ namespace if_else
     {
         static void Main(string[] args)
         {
+            int time1 = 22;
+            if (time1 < 10)
+            {
+                Console.WriteLine("Good morning.");
+            }
+            else if (time1 < 20)
+            {
+                Console.WriteLine("Good day.");
+            }
+            else
+            {
+                Console.WriteLine("Good evening.");
+            }
             int time = 20;
             if (time < 18)
             {
