@@ -6,7 +6,7 @@ namespace switch1
 {
     static void Main(string[] args)
     {
-        int day = 6;
+        int day = 1;
         switch (day)
         {
             case 1:
