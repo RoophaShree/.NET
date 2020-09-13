@@ -16,6 +16,7 @@ namespace Booleans
             Console.WriteLine(40 > 20);
             Console.WriteLine(x == 20);
             Console.WriteLine(10 == 10);
+            Console.WriteLine(x < y);
         }
     }
 }
