@@ -6,6 +6,9 @@ namespace if_else
     {
         static void Main(string[] args)
         {
+            int time2 = 20;
+            string result = (time2 < 30) ? "Good day." : "Good evening.";
+            Console.WriteLine(result);
             int time1 = 22;
             if (time1 < 10)
             {
