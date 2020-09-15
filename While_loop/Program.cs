@@ -7,11 +7,13 @@ namespace While_loop
         static void Main(string[] args)
         {
             int i=0;
-            while(i<20)
+            do
             {
-                Console.WriteLine(i);
+                Console.WriteLine("Trying to check what do while is");
                 i++;
             }
+            while (i < 5);
+            
         }
     }
 }
