@@ -6,7 +6,7 @@ namespace for_Loop
     {
         static void Main(string[] args)
         {
-            for(int i=0;i<=5;i=i+2)
+            for(int i=0;i<=10;i=i+5)
             {
                 Console.WriteLine(i);
             }
