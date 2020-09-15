@@ -10,7 +10,7 @@ namespace While_loop
             do
             {
                 Console.WriteLine("Trying to check what do while is");
-                i++;
+                
             }
             while (i < 5);
             
