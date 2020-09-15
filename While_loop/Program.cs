@@ -12,7 +12,7 @@ namespace While_loop
                 Console.WriteLine("Trying to check what do while is");
                 i++;
             }
-            while (i > 5);
+            while (i < 5);
             
         }
     }
