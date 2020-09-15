@@ -10,7 +10,7 @@ namespace Break_Continue
             {
                 if (i == 3)
                 {
-                    continue;
+                    break;
                 }
                 Console.WriteLine(i);
             }
