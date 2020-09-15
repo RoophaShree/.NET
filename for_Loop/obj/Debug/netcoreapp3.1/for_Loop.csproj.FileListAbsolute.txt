@@ -1,0 +1,12 @@
+D:\Study\.NetProgramming\ConsoleProjects\for_Loop\bin\Debug\netcoreapp3.1\for_Loop.exe
+D:\Study\.NetProgramming\ConsoleProjects\for_Loop\bin\Debug\netcoreapp3.1\for_Loop.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\for_Loop\bin\Debug\netcoreapp3.1\for_Loop.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\for_Loop\bin\Debug\netcoreapp3.1\for_Loop.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\for_Loop\bin\Debug\netcoreapp3.1\for_Loop.dll
+D:\Study\.NetProgramming\ConsoleProjects\for_Loop\bin\Debug\netcoreapp3.1\for_Loop.pdb
+D:\Study\.NetProgramming\ConsoleProjects\for_Loop\obj\Debug\netcoreapp3.1\for_Loop.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\for_Loop\obj\Debug\netcoreapp3.1\for_Loop.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\for_Loop\obj\Debug\netcoreapp3.1\for_Loop.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\for_Loop\obj\Debug\netcoreapp3.1\for_Loop.dll
+D:\Study\.NetProgramming\ConsoleProjects\for_Loop\obj\Debug\netcoreapp3.1\for_Loop.pdb
+D:\Study\.NetProgramming\ConsoleProjects\for_Loop\obj\Debug\netcoreapp3.1\for_Loop.genruntimeconfig.cache
