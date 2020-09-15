@@ -6,8 +6,8 @@ namespace for_each
     {
         static void Main(string[] args)
         {
-            string[] grocery = { "milk", "chocolate", "flowers", "biscuits" };
-            foreach(string i in grocery)
+            int[] a = { 1,2,3,5,7,9,10 };
+            foreach(int i in a)
             {
                 Console.WriteLine(i);
             }
