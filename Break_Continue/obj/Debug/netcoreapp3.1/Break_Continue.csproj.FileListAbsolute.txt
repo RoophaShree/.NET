@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Break_Continue\bin\Debug\netcoreapp3.1\Break_Continue.exe
+D:\Study\.NetProgramming\ConsoleProjects\Break_Continue\bin\Debug\netcoreapp3.1\Break_Continue.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Break_Continue\bin\Debug\netcoreapp3.1\Break_Continue.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Break_Continue\bin\Debug\netcoreapp3.1\Break_Continue.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Break_Continue\bin\Debug\netcoreapp3.1\Break_Continue.dll
+D:\Study\.NetProgramming\ConsoleProjects\Break_Continue\bin\Debug\netcoreapp3.1\Break_Continue.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Break_Continue\obj\Debug\netcoreapp3.1\Break_Continue.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Break_Continue\obj\Debug\netcoreapp3.1\Break_Continue.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Break_Continue\obj\Debug\netcoreapp3.1\Break_Continue.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Break_Continue\obj\Debug\netcoreapp3.1\Break_Continue.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Break_Continue\obj\Debug\netcoreapp3.1\Break_Continue.dll
+D:\Study\.NetProgramming\ConsoleProjects\Break_Continue\obj\Debug\netcoreapp3.1\Break_Continue.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Break_Continue\obj\Debug\netcoreapp3.1\Break_Continue.genruntimeconfig.cache
