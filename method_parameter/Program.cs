@@ -23,6 +23,7 @@ namespace method_parameter
             int c = myReturnMethod(2, 3);
             Console.WriteLine(c);
             keyValueMethod(food4: "Biryani", food1: "Poori", food3: "Burger", food2: "Pizza");
+            namedArgument("food3");
 
         }
         static void myNextMethod(string country="The USA")
@@ -43,6 +44,10 @@ namespace method_parameter
         static void keyValueMethod(string food1,string food2,string food3,string food4)
         {
             Console.WriteLine("One of my Fav food is: " + food4);
+        }
+        static void namedArgument(string food1 = "Biryani", string food2 = "Pizza", string food3 = "Burger", string food4 = "Bread")
+        {
+            Console.WriteLine(food2);
         }
     }
 }
