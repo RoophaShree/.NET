@@ -18,10 +18,23 @@ namespace method_parameter
             myNextMethod("India");
             myNextMethod("Canada");
             myNextMethod("United Kingdoms");
+            myMultipleParameter("Roopa", 26);
+            myMultipleParameter("Shilpa", 27);
+            Console.WriteLine(myReturnMethod(8));
+
         }
         static void myNextMethod(string country="The USA")
         {
             Console.WriteLine(country);
+        }
+        static void myMultipleParameter(string fname, int age)
+        {
+            Console.WriteLine(fname + " is "  + age , "years old");
+        }
+        static int myReturnMethod(int a)
+        {
+            return a * 3;
+           
         }
     }
 }
