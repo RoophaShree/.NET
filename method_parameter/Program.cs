@@ -20,7 +20,8 @@ namespace method_parameter
             myNextMethod("United Kingdoms");
             myMultipleParameter("Roopa", 26);
             myMultipleParameter("Shilpa", 27);
-            Console.WriteLine(myReturnMethod(2,3));
+            int c = myReturnMethod(2, 3);
+            Console.WriteLine(c);
 
         }
         static void myNextMethod(string country="The USA")
