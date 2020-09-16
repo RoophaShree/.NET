@@ -11,6 +11,8 @@ namespace methods
         static void Main(string[] args)
         {
             myMethod();
+            myMethod();
+            myMethod();
         }
     }
 }
