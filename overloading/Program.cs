@@ -6,19 +6,23 @@ namespace overloading
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(addMethod(8, 6));
-            Console.WriteLine(addMethod(1, 2));
+            int Num1;
+            double Num2;
+            Num1 = addMethod(8, 6);
+            Num2 = addMethod(1, 2);
+            Console.WriteLine("Int: " +Num1);
+            Console.WriteLine("double:" +Num2);
         }
 
         static int addMethod(int x,int y)
         {
-            int m;
-            return m = x + y;
+            
+            return  x + y;
         }
         static double addMethod(double a, double b)
         {
-            double n;
-            return n = a + b;
+            
+            return  a + b;
         }
     }
 }
