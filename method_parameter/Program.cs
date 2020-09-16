@@ -20,7 +20,7 @@ namespace method_parameter
             myNextMethod("United Kingdoms");
             myMultipleParameter("Roopa", 26);
             myMultipleParameter("Shilpa", 27);
-            Console.WriteLine(myReturnMethod(8));
+            Console.WriteLine(myReturnMethod(2));
 
         }
         static void myNextMethod(string country="The USA")
@@ -33,7 +33,9 @@ namespace method_parameter
         }
         static int myReturnMethod(int a)
         {
-            return a * 3;
+            int b = a + 5;
+            return b * 3;
+          
            
         }
     }
