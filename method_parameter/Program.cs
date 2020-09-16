@@ -14,6 +14,14 @@ namespace method_parameter
             myMethod("Robin");
             myMethod("Pascal");
             myMethod("Ghays");
+            myNextMethod();
+            myNextMethod("India");
+            myNextMethod("Canada");
+            myNextMethod("United Kingdoms");
+        }
+        static void myNextMethod(string country="The USA")
+        {
+            Console.WriteLine(country);
         }
     }
 }

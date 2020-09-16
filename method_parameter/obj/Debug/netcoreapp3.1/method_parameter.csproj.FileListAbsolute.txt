@@ -10,3 +10,4 @@ D:\Study\.NetProgramming\ConsoleProjects\method_parameter\obj\Debug\netcoreapp3.
 D:\Study\.NetProgramming\ConsoleProjects\method_parameter\obj\Debug\netcoreapp3.1\method_parameter.dll
 D:\Study\.NetProgramming\ConsoleProjects\method_parameter\obj\Debug\netcoreapp3.1\method_parameter.pdb
 D:\Study\.NetProgramming\ConsoleProjects\method_parameter\obj\Debug\netcoreapp3.1\method_parameter.genruntimeconfig.cache
+D:\Study\.NetProgramming\ConsoleProjects\method_parameter\obj\Debug\netcoreapp3.1\method_parameter.csprojAssemblyReference.cache
