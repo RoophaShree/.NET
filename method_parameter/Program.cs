@@ -22,6 +22,7 @@ namespace method_parameter
             myMultipleParameter("Shilpa", 27);
             int c = myReturnMethod(2, 3);
             Console.WriteLine(c);
+            keyValueMethod(food4: "Biryani", food1: "Poori", food3: "Burger", food2: "Pizza");
 
         }
         static void myNextMethod(string country="The USA")
@@ -38,6 +39,10 @@ namespace method_parameter
             return b * a;
           
            
+        }
+        static void keyValueMethod(string food1,string food2,string food3,string food4)
+        {
+            Console.WriteLine("One of my Fav food is: " + food4);
         }
     }
 }
