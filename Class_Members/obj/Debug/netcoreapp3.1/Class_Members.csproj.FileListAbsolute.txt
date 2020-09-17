@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Class_Members\bin\Debug\netcoreapp3.1\Class_Members.exe
+D:\Study\.NetProgramming\ConsoleProjects\Class_Members\bin\Debug\netcoreapp3.1\Class_Members.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Class_Members\bin\Debug\netcoreapp3.1\Class_Members.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Class_Members\bin\Debug\netcoreapp3.1\Class_Members.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Class_Members\bin\Debug\netcoreapp3.1\Class_Members.dll
+D:\Study\.NetProgramming\ConsoleProjects\Class_Members\bin\Debug\netcoreapp3.1\Class_Members.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Class_Members\obj\Debug\netcoreapp3.1\Class_Members.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Class_Members\obj\Debug\netcoreapp3.1\Class_Members.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Class_Members\obj\Debug\netcoreapp3.1\Class_Members.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Class_Members\obj\Debug\netcoreapp3.1\Class_Members.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Class_Members\obj\Debug\netcoreapp3.1\Class_Members.dll
+D:\Study\.NetProgramming\ConsoleProjects\Class_Members\obj\Debug\netcoreapp3.1\Class_Members.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Class_Members\obj\Debug\netcoreapp3.1\Class_Members.genruntimeconfig.cache
