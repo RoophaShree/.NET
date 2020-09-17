@@ -7,13 +7,15 @@ namespace Object
     {
         class Carr
         {
-            string color = "blue";
-            int speed = 100;
+            string color;
+            int speed;
 
 
             static void Main(string[] args)
             {
                 Carr myObj = new Carr();
+                myObj.color = "Green";
+                myObj.speed = 100;
                 Console.WriteLine(myObj.color);
                 Console.WriteLine(myObj.speed);
             }
