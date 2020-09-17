@@ -5,10 +5,19 @@ namespace Object
 {
     class Program
     {
-        static void Main(string[] args)
+        class Carr
         {
-            Car myObj = new Car();
-            Console.WriteLine(myObj.color);
+            string color = "blue";
+            int speed = 100;
+
+
+            static void Main(string[] args)
+            {
+                Carr myObj = new Carr();
+                Console.WriteLine(myObj.color);
+                Console.WriteLine(myObj.speed);
+            }
+
         }
     }
 }
