@@ -24,6 +24,8 @@ namespace Class_Members
 
                 Console.WriteLine(Civic.model);
                 Console.WriteLine(Ford.color);
+                Console.WriteLine(Ford.model);
+                Console.WriteLine(Civic.year);
 
             }
         }
