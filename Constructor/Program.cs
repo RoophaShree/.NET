@@ -4,21 +4,19 @@ namespace Constructor
 {
     class Car
     {
-        public string color;
-        public int speed;
-
-        public Car()
+        public string model;
+        
+        public Car(string modelName)
         {
-            color = "White";
-            speed = 100;
+            model = modelName;
+           
+     
         }
-
-
         static void Main(string[] args)
         {
-            Car Ford = new Car();
-            Console.WriteLine(Ford.color);
-            Console.WriteLine(Ford.speed);
+            Car Ford = new Car("Mustang");
+            Console.WriteLine(Ford.model);
+            
         }
     }
 }

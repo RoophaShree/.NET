@@ -10,3 +10,4 @@ D:\Study\.NetProgramming\ConsoleProjects\Constructor\obj\Debug\netcoreapp3.1\Con
 D:\Study\.NetProgramming\ConsoleProjects\Constructor\obj\Debug\netcoreapp3.1\Constructor.dll
 D:\Study\.NetProgramming\ConsoleProjects\Constructor\obj\Debug\netcoreapp3.1\Constructor.pdb
 D:\Study\.NetProgramming\ConsoleProjects\Constructor\obj\Debug\netcoreapp3.1\Constructor.genruntimeconfig.cache
+D:\Study\.NetProgramming\ConsoleProjects\Constructor\obj\Debug\netcoreapp3.1\Constructor.csprojAssemblyReference.cache
