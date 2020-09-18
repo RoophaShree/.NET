@@ -14,7 +14,6 @@ namespace Constructor
             color = modelColor;
             speed = modelSpeed;
            
-     
         }
         static void Main(string[] args)
         {
