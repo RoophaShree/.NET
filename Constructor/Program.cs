@@ -5,10 +5,12 @@ namespace Constructor
     class Car
     {
         public string color;
+        public int speed;
 
         public Car()
         {
-            color = "red";
+            color = "White";
+            speed = 100;
         }
 
 
@@ -16,6 +18,7 @@ namespace Constructor
         {
             Car Ford = new Car();
             Console.WriteLine(Ford.color);
+            Console.WriteLine(Ford.speed);
         }
     }
 }
