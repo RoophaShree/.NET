@@ -19,7 +19,7 @@ namespace Constructor
         static void Main(string[] args)
         {
             Car Ford = new Car("Mustang","red",100);
-            Console.WriteLine(Ford.model+ " " +Ford.color+ " " +Ford.speed);
+            Console.WriteLine(Ford.model+ " car in " +Ford.color+ " runs with a speed " +Ford.speed);
             
         }
     }
