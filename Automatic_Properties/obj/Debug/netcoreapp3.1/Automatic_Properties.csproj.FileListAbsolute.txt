@@ -1,0 +1,12 @@
+D:\Study\.NetProgramming\ConsoleProjects\Automatic_Properties\bin\Debug\netcoreapp3.1\Automatic_Properties.exe
+D:\Study\.NetProgramming\ConsoleProjects\Automatic_Properties\bin\Debug\netcoreapp3.1\Automatic_Properties.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Automatic_Properties\bin\Debug\netcoreapp3.1\Automatic_Properties.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Automatic_Properties\bin\Debug\netcoreapp3.1\Automatic_Properties.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Automatic_Properties\bin\Debug\netcoreapp3.1\Automatic_Properties.dll
+D:\Study\.NetProgramming\ConsoleProjects\Automatic_Properties\bin\Debug\netcoreapp3.1\Automatic_Properties.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Automatic_Properties\obj\Debug\netcoreapp3.1\Automatic_Properties.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Automatic_Properties\obj\Debug\netcoreapp3.1\Automatic_Properties.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Automatic_Properties\obj\Debug\netcoreapp3.1\Automatic_Properties.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Automatic_Properties\obj\Debug\netcoreapp3.1\Automatic_Properties.dll
+D:\Study\.NetProgramming\ConsoleProjects\Automatic_Properties\obj\Debug\netcoreapp3.1\Automatic_Properties.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Automatic_Properties\obj\Debug\netcoreapp3.1\Automatic_Properties.genruntimeconfig.cache
