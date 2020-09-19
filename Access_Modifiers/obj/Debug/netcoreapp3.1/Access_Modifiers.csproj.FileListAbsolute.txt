@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Access_Modifiers\bin\Debug\netcoreapp3.1\Access_Modifiers.exe
+D:\Study\.NetProgramming\ConsoleProjects\Access_Modifiers\bin\Debug\netcoreapp3.1\Access_Modifiers.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Access_Modifiers\bin\Debug\netcoreapp3.1\Access_Modifiers.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Access_Modifiers\bin\Debug\netcoreapp3.1\Access_Modifiers.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Access_Modifiers\bin\Debug\netcoreapp3.1\Access_Modifiers.dll
+D:\Study\.NetProgramming\ConsoleProjects\Access_Modifiers\bin\Debug\netcoreapp3.1\Access_Modifiers.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Access_Modifiers\obj\Debug\netcoreapp3.1\Access_Modifiers.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Access_Modifiers\obj\Debug\netcoreapp3.1\Access_Modifiers.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Access_Modifiers\obj\Debug\netcoreapp3.1\Access_Modifiers.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Access_Modifiers\obj\Debug\netcoreapp3.1\Access_Modifiers.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Access_Modifiers\obj\Debug\netcoreapp3.1\Access_Modifiers.dll
+D:\Study\.NetProgramming\ConsoleProjects\Access_Modifiers\obj\Debug\netcoreapp3.1\Access_Modifiers.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Access_Modifiers\obj\Debug\netcoreapp3.1\Access_Modifiers.genruntimeconfig.cache
