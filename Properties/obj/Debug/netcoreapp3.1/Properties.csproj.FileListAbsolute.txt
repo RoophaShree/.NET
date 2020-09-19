@@ -1,0 +1,12 @@
+D:\Study\.NetProgramming\ConsoleProjects\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+D:\Study\.NetProgramming\ConsoleProjects\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+D:\Study\.NetProgramming\ConsoleProjects\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+D:\Study\.NetProgramming\ConsoleProjects\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
