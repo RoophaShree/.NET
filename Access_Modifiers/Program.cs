@@ -4,7 +4,7 @@ namespace Access_Modifiers
 {
     class Car
     {
-        private string model = "Ford";
+        public string model = "Ford";
     }
     class Program
     { 
