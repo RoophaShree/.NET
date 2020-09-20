@@ -32,10 +32,11 @@ namespace Abstract
         {
             Pig myPig = new Pig();
             Dog myDog = new Dog();
-            myPig.animalSound();
-            myPig.sleep();
-            myDog.animalSound();
             myDog.sleep();
+            myPig.animalSound();
+           
+            myDog.animalSound();
+            
         }
     }
 }
