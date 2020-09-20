@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Abstract\bin\Debug\netcoreapp3.1\Abstract.exe
+D:\Study\.NetProgramming\ConsoleProjects\Abstract\bin\Debug\netcoreapp3.1\Abstract.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Abstract\bin\Debug\netcoreapp3.1\Abstract.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Abstract\bin\Debug\netcoreapp3.1\Abstract.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Abstract\bin\Debug\netcoreapp3.1\Abstract.dll
+D:\Study\.NetProgramming\ConsoleProjects\Abstract\bin\Debug\netcoreapp3.1\Abstract.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Abstract\obj\Debug\netcoreapp3.1\Abstract.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Abstract\obj\Debug\netcoreapp3.1\Abstract.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Abstract\obj\Debug\netcoreapp3.1\Abstract.dll
+D:\Study\.NetProgramming\ConsoleProjects\Abstract\obj\Debug\netcoreapp3.1\Abstract.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Abstract\obj\Debug\netcoreapp3.1\Abstract.genruntimeconfig.cache

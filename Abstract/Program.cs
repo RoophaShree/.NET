@@ -4,10 +4,18 @@ namespace Abstract
 {
     abstract class Animal
     {
-        public abstract void AnimalSound();
+        public abstract void animalSound();
         public void sleep()
         {
             Console.WriteLine("ZZZZzzzzzzzzzzzz");
+        }
+    }
+
+    class Pig : Animal
+    {
+        public override void animalSound()
+        {
+            Console.WriteLine("The pig says: Oink Oink");
         }
     }
     
@@ -15,7 +23,9 @@ namespace Abstract
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Pig myPig = new Pig();
+            myPig.animalSound();
+            myPig.sleep();
         }
     }
 }
