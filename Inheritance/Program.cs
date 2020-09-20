@@ -8,7 +8,7 @@ namespace Inheritance
         public string brand = "Ford";
         public void honk()
         {
-            Console.WriteLine("Goes 'TTTTTTUUUUUUTTTT' 'TTTTTTTUUUUUUTTTT'");
+            Console.WriteLine("Hunk on the bus goes 'TTTTTTUUUUUUTTTT' 'TTTTTTTUUUUUUTTTT'");
         }
 
     }
