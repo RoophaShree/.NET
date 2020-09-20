@@ -5,7 +5,7 @@ namespace Polymorphism
 
     class Animal
     {
-        public void animalSound()
+        public virtual void animalSound()
         {
             Console.WriteLine("The animal makes a sound");
         }
@@ -13,14 +13,14 @@ namespace Polymorphism
 
     class pig : Animal
     {
-        public void animalSound()
+        public override void animalSound()
         {
             Console.WriteLine("The pig says Oink Oink");
         }
     }
     class Dog:Animal
     {
-        public void animalSound()
+        public override void animalSound()
         {
             Console.WriteLine(" The dog says Bowww Bowww");
         }
