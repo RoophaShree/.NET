@@ -4,7 +4,7 @@ namespace Abstract
 {
     abstract class Animal
     {
-        public abstract void animalSound();
+        public void animalSound();
         public void sleep()
         {
             Console.WriteLine("ZZZZzzzzzzzzzzzz");
