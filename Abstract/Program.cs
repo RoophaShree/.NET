@@ -19,13 +19,23 @@ namespace Abstract
         }
     }
     
+    class Dog: Animal
+    {
+        public override void animalSound()
+        {
+            Console.WriteLine("The dog says: Bow bowwww");
+        }
+    }
     class Program
     {
         static void Main(string[] args)
         {
             Pig myPig = new Pig();
+            Dog myDog = new Dog();
             myPig.animalSound();
             myPig.sleep();
+            myDog.animalSound();
+            myDog.sleep();
         }
     }
 }
