@@ -3,12 +3,12 @@
 namespace Inheritance
 {
 
-    class Vehicle
+    sealed class Vehicle
     {
         public string brand = "Ford";
         public void honk()
         {
-            Console.WriteLine("Hunk on the bus goes 'TTTTTTUUUUUUTTTT' 'TTTTTTTUUUUUUTTTT'");
+            Console.WriteLine("Hunk on the bus goes 'TTTTTTUUUUUUTTTT!' 'TTTTTTTUUUUUUTTTT!'");
         }
 
     }
