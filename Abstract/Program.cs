@@ -4,7 +4,7 @@ namespace Abstract
 {
     abstract class Animal
     {
-        public void animalSound()
+        public virtual void animalSound()
         {
             Console.WriteLine("The animals sleeps well");
         }
@@ -16,7 +16,7 @@ namespace Abstract
 
     class Pig : Animal
     {
-        public  void animalSound()
+        public override void animalSound()
         {
             Console.WriteLine("The pig says: Oink Oink");
         }
@@ -24,7 +24,7 @@ namespace Abstract
     
     class Dog: Animal
     {
-        public  void animalSound()
+        public override void animalSound()
         {
             Console.WriteLine("The dog says: Bow bowwww");
         }
@@ -33,6 +33,7 @@ namespace Abstract
     {
         static void Main(string[] args)
         {
+            Animal myAnimal = new Animal();
             Pig myPig = new Pig();
             Dog myDog = new Dog();
             myDog.sleep();
