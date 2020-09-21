@@ -33,7 +33,7 @@ namespace Abstract
     {
         static void Main(string[] args)
         {
-            Animal myAnimal = new Animal();
+           
             Pig myPig = new Pig();
             Dog myDog = new Dog();
             myDog.sleep();
