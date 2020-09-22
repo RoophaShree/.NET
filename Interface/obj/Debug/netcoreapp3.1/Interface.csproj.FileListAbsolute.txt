@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+D:\Study\.NetProgramming\ConsoleProjects\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+D:\Study\.NetProgramming\ConsoleProjects\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+D:\Study\.NetProgramming\ConsoleProjects\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache
