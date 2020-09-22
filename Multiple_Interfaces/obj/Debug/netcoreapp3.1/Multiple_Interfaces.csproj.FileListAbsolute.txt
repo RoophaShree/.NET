@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Multiple_Interfaces\bin\Debug\netcoreapp3.1\Multiple_Interfaces.exe
+D:\Study\.NetProgramming\ConsoleProjects\Multiple_Interfaces\bin\Debug\netcoreapp3.1\Multiple_Interfaces.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Multiple_Interfaces\bin\Debug\netcoreapp3.1\Multiple_Interfaces.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Multiple_Interfaces\bin\Debug\netcoreapp3.1\Multiple_Interfaces.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Multiple_Interfaces\bin\Debug\netcoreapp3.1\Multiple_Interfaces.dll
+D:\Study\.NetProgramming\ConsoleProjects\Multiple_Interfaces\bin\Debug\netcoreapp3.1\Multiple_Interfaces.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Multiple_Interfaces\obj\Debug\netcoreapp3.1\Multiple_Interfaces.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Multiple_Interfaces\obj\Debug\netcoreapp3.1\Multiple_Interfaces.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Multiple_Interfaces\obj\Debug\netcoreapp3.1\Multiple_Interfaces.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Multiple_Interfaces\obj\Debug\netcoreapp3.1\Multiple_Interfaces.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Multiple_Interfaces\obj\Debug\netcoreapp3.1\Multiple_Interfaces.dll
+D:\Study\.NetProgramming\ConsoleProjects\Multiple_Interfaces\obj\Debug\netcoreapp3.1\Multiple_Interfaces.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Multiple_Interfaces\obj\Debug\netcoreapp3.1\Multiple_Interfaces.genruntimeconfig.cache
