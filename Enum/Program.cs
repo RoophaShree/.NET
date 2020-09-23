@@ -2,15 +2,16 @@
 
 namespace Enum
 {
-    enum Level
-    {
-        Low,
-        Medium,
-        High
-    }
+    
 
     class Program
     {
+        enum Level
+        {
+            Low,
+            Medium,
+            High
+        }
         static void Main(string[] args)
         {
             Level myLevel = Level.Medium;
