@@ -1,0 +1,12 @@
+D:\Study\.NetProgramming\ConsoleProjects\Enum_Switch\bin\Debug\netcoreapp3.1\Enum_Switch.exe
+D:\Study\.NetProgramming\ConsoleProjects\Enum_Switch\bin\Debug\netcoreapp3.1\Enum_Switch.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Enum_Switch\bin\Debug\netcoreapp3.1\Enum_Switch.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Enum_Switch\bin\Debug\netcoreapp3.1\Enum_Switch.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Enum_Switch\bin\Debug\netcoreapp3.1\Enum_Switch.dll
+D:\Study\.NetProgramming\ConsoleProjects\Enum_Switch\bin\Debug\netcoreapp3.1\Enum_Switch.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Enum_Switch\obj\Debug\netcoreapp3.1\Enum_Switch.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Enum_Switch\obj\Debug\netcoreapp3.1\Enum_Switch.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Enum_Switch\obj\Debug\netcoreapp3.1\Enum_Switch.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Enum_Switch\obj\Debug\netcoreapp3.1\Enum_Switch.dll
+D:\Study\.NetProgramming\ConsoleProjects\Enum_Switch\obj\Debug\netcoreapp3.1\Enum_Switch.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Enum_Switch\obj\Debug\netcoreapp3.1\Enum_Switch.genruntimeconfig.cache
