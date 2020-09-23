@@ -8,7 +8,7 @@ namespace Enum_values
         February,
         March,
         April,
-        May=5,
+        May,
         June,
         July,
         August,
