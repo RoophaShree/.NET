@@ -8,8 +8,8 @@ namespace MyApplication
     {
         static void Main(string[] args)
         {
-            string writeText = "Hi RoophaShree, how are you?";
-            File.WriteAllText("fname.txt", writeText);
+            string writeAllBytes = "Hi RoophaShree, how are you?";
+            File.WriteAllBytes("fname.txt", writeAllBytes);
 
             string readText = File.ReadAllText("filename.txt"); 
             Console.WriteLine(readText);
