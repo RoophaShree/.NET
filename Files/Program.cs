@@ -8,7 +8,7 @@ namespace MyApplication
     {
         static void Main(string[] args)
         {
-            string writeText = "Hello World!";  
+            string writeText = "Hi RoophaShree, how are you?";  
             File.WriteAllText("filename.txt", writeText);  
 
             string readText = File.ReadAllText("filename.txt"); 
