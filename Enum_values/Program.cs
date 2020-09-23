@@ -8,7 +8,7 @@ namespace Enum_values
         February,
         March,
         April,
-        May,
+        May=5,
         June,
         July,
         August,
@@ -18,7 +18,7 @@ namespace Enum_values
     {
         static void Main(string[] args)
         {
-            int myMonths = (int)Months.January;
+            int myMonths = (int)Months.June;
             Console.WriteLine(myMonths);
         }
     }
