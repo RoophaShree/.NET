@@ -18,7 +18,7 @@ namespace Enum_values
     {
         static void Main(string[] args)
         {
-            int myMonths = (int)Months.July;
+            int myMonths = (int)Months.January;
             Console.WriteLine(myMonths);
         }
     }
