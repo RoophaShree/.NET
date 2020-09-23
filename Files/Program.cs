@@ -1,6 +1,6 @@
 ﻿
 using System;
-//using System.IO;  
+using System.IO;  
 
 namespace MyApplication
 {
@@ -8,8 +8,8 @@ namespace MyApplication
     {
         static void Main(string[] args)
         {
-            string writeText = "Hi RoophaShree, how are you?";  
-            File.WriteAllText("filename.txt", writeText);  
+            string writeText = "Hi RoophaShree, how are you?";
+            File.WriteAllText("fname.txt", writeText);
 
             string readText = File.ReadAllText("filename.txt"); 
             Console.WriteLine(readText);
