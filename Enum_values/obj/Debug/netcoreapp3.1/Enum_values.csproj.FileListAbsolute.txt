@@ -1,0 +1,12 @@
+D:\Study\.NetProgramming\ConsoleProjects\Enum_values\bin\Debug\netcoreapp3.1\Enum_values.exe
+D:\Study\.NetProgramming\ConsoleProjects\Enum_values\bin\Debug\netcoreapp3.1\Enum_values.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Enum_values\bin\Debug\netcoreapp3.1\Enum_values.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Enum_values\bin\Debug\netcoreapp3.1\Enum_values.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Enum_values\bin\Debug\netcoreapp3.1\Enum_values.dll
+D:\Study\.NetProgramming\ConsoleProjects\Enum_values\bin\Debug\netcoreapp3.1\Enum_values.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Enum_values\obj\Debug\netcoreapp3.1\Enum_values.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Enum_values\obj\Debug\netcoreapp3.1\Enum_values.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Enum_values\obj\Debug\netcoreapp3.1\Enum_values.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Enum_values\obj\Debug\netcoreapp3.1\Enum_values.dll
+D:\Study\.NetProgramming\ConsoleProjects\Enum_values\obj\Debug\netcoreapp3.1\Enum_values.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Enum_values\obj\Debug\netcoreapp3.1\Enum_values.genruntimeconfig.cache
