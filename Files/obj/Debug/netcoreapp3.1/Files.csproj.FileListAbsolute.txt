@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Files\bin\Debug\netcoreapp3.1\Files.exe
+D:\Study\.NetProgramming\ConsoleProjects\Files\bin\Debug\netcoreapp3.1\Files.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Files\bin\Debug\netcoreapp3.1\Files.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Files\bin\Debug\netcoreapp3.1\Files.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Files\bin\Debug\netcoreapp3.1\Files.dll
+D:\Study\.NetProgramming\ConsoleProjects\Files\bin\Debug\netcoreapp3.1\Files.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Files\obj\Debug\netcoreapp3.1\Files.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Files\obj\Debug\netcoreapp3.1\Files.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Files\obj\Debug\netcoreapp3.1\Files.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Files\obj\Debug\netcoreapp3.1\Files.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Files\obj\Debug\netcoreapp3.1\Files.dll
+D:\Study\.NetProgramming\ConsoleProjects\Files\obj\Debug\netcoreapp3.1\Files.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Files\obj\Debug\netcoreapp3.1\Files.genruntimeconfig.cache
