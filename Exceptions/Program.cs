@@ -9,7 +9,7 @@ namespace Exceptions
             try
             {
                 int[] myNum = { 1, 2, 3 };
-                Console.WriteLine(myNum[10]);
+                Console.WriteLine(myNum[1]);
             }
             catch(Exception e)
             {
