@@ -1,0 +1,12 @@
+D:\Study\.NetProgramming\ConsoleProjects\Sum_Of_two_numbers\bin\Debug\netcoreapp3.1\Sum_Of_two_numbers.exe
+D:\Study\.NetProgramming\ConsoleProjects\Sum_Of_two_numbers\bin\Debug\netcoreapp3.1\Sum_Of_two_numbers.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Sum_Of_two_numbers\bin\Debug\netcoreapp3.1\Sum_Of_two_numbers.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Sum_Of_two_numbers\bin\Debug\netcoreapp3.1\Sum_Of_two_numbers.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Sum_Of_two_numbers\bin\Debug\netcoreapp3.1\Sum_Of_two_numbers.dll
+D:\Study\.NetProgramming\ConsoleProjects\Sum_Of_two_numbers\bin\Debug\netcoreapp3.1\Sum_Of_two_numbers.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Sum_Of_two_numbers\obj\Debug\netcoreapp3.1\Sum_Of_two_numbers.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Sum_Of_two_numbers\obj\Debug\netcoreapp3.1\Sum_Of_two_numbers.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Sum_Of_two_numbers\obj\Debug\netcoreapp3.1\Sum_Of_two_numbers.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Sum_Of_two_numbers\obj\Debug\netcoreapp3.1\Sum_Of_two_numbers.dll
+D:\Study\.NetProgramming\ConsoleProjects\Sum_Of_two_numbers\obj\Debug\netcoreapp3.1\Sum_Of_two_numbers.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Sum_Of_two_numbers\obj\Debug\netcoreapp3.1\Sum_Of_two_numbers.genruntimeconfig.cache

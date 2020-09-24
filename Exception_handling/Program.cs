@@ -18,7 +18,7 @@ namespace Exception_handling
         }
         static void Main(string[] args)
         {
-            checkAge(10);
+            checkAge(20);
         }
     }
 }
