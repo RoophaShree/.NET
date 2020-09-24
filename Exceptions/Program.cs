@@ -15,6 +15,10 @@ namespace Exceptions
             {
                 Console.WriteLine("Something went wrong");
             }
+            finally
+            {
+                Console.WriteLine("The try and catch completed");
+            }
         }
     }
 }
