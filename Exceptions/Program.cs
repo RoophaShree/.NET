@@ -7,7 +7,7 @@ namespace Exceptions
         static void Main(string[] args)
         {
             int[] myNum = { 1, 2, 3 };
-            Console.WriteLine(myNum[2]);
+            Console.WriteLine(myNum[10]);
         }
     }
 }
