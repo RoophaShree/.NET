@@ -6,8 +6,15 @@ namespace Exceptions
     {
         static void Main(string[] args)
         {
-            int[] myNum = { 1, 2, 3 };
-            Console.WriteLine(myNum[10]);
+            try
+            {
+                int[] myNum = { 1, 2, 3 };
+                Console.WriteLine(myNum[10]);
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
         }
     }
 }
