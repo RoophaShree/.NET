@@ -2,7 +2,7 @@
 
 namespace Structure
 {
-    class structure
+    struct structure
     {
         public int x;
         public int y;
@@ -17,7 +17,7 @@ namespace Structure
             st.x = 15;
             st.y = 20;
             int sum = st.x + st.y;
-            Console.WriteLine("The sum of x and y is:{0}", sum);
+            Console.WriteLine("The sum of x and y is: ", sum);
         }
     }
 }
