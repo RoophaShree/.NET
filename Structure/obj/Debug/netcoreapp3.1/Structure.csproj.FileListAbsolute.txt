@@ -1,0 +1,13 @@
+D:\Study\.NetProgramming\ConsoleProjects\Structure\bin\Debug\netcoreapp3.1\Structure.exe
+D:\Study\.NetProgramming\ConsoleProjects\Structure\bin\Debug\netcoreapp3.1\Structure.deps.json
+D:\Study\.NetProgramming\ConsoleProjects\Structure\bin\Debug\netcoreapp3.1\Structure.runtimeconfig.json
+D:\Study\.NetProgramming\ConsoleProjects\Structure\bin\Debug\netcoreapp3.1\Structure.runtimeconfig.dev.json
+D:\Study\.NetProgramming\ConsoleProjects\Structure\bin\Debug\netcoreapp3.1\Structure.dll
+D:\Study\.NetProgramming\ConsoleProjects\Structure\bin\Debug\netcoreapp3.1\Structure.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Structure\obj\Debug\netcoreapp3.1\Structure.csprojAssemblyReference.cache
+D:\Study\.NetProgramming\ConsoleProjects\Structure\obj\Debug\netcoreapp3.1\Structure.AssemblyInfoInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Structure\obj\Debug\netcoreapp3.1\Structure.AssemblyInfo.cs
+D:\Study\.NetProgramming\ConsoleProjects\Structure\obj\Debug\netcoreapp3.1\Structure.csproj.CoreCompileInputs.cache
+D:\Study\.NetProgramming\ConsoleProjects\Structure\obj\Debug\netcoreapp3.1\Structure.dll
+D:\Study\.NetProgramming\ConsoleProjects\Structure\obj\Debug\netcoreapp3.1\Structure.pdb
+D:\Study\.NetProgramming\ConsoleProjects\Structure\obj\Debug\netcoreapp3.1\Structure.genruntimeconfig.cache
