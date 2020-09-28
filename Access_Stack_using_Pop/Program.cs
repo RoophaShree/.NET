@@ -21,7 +21,7 @@ namespace Access_Stack_using_Pop
 
             if (myStack.Count > 0)
                 Console.WriteLine(myStack.Peek());
-                Console.WriteLine(myStack.Peek());
+                
 
 
             Console.WriteLine("Number of elements in stack after peek operation is:{0}", myStack.Count);
