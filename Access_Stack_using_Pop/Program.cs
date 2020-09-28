@@ -17,7 +17,7 @@ namespace Access_Stack_using_Pop
             Console.WriteLine("Number of elements in stack are:", + myStack.Count);
 
             while (myStack.Count > 0)
-                Console.WriteLine(myStack.Pop() + ",");
+                Console.WriteLine(myStack.Peek());
 
             Console.WriteLine("Number of elements in stack after pop operation is:{0}", myStack.Count);
 
