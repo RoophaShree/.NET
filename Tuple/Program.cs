@@ -22,7 +22,7 @@ using System.Collections;
         Console.WriteLine(numbers.Item6);
         Console.WriteLine(numbers.Item7);
         Console.WriteLine(numbers.Rest);
-        //Console.WriteLine(numbers.Rest.Item1);
+        Console.WriteLine(numbers.Rest.Item1);
         }
     }
 
