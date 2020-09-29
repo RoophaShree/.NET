@@ -15,6 +15,13 @@ using System.Collections;
 
         var numbers = Tuple.Create("One", 2, 3, "Four", 5, "Six", 7, "Eight");
         Console.WriteLine(numbers.Item1);
+        Console.WriteLine(numbers.Item2);
+        Console.WriteLine(numbers.Item3);
+        Console.WriteLine(numbers.Item4);
+        Console.WriteLine(numbers.Item5);
+        Console.WriteLine(numbers.Item6);
+        Console.WriteLine(numbers.Item7);
+        //Console.WriteLine(numbers.Item8);
         }
     }
 
