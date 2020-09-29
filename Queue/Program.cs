@@ -15,6 +15,11 @@ namespace Queue
             queue.Enqueue(5);
             queue.Enqueue(6);
 
+            Console.WriteLine(queue.Contains(4));
+            Console.WriteLine(queue.Contains(6));
+            Console.WriteLine(queue.Contains(10));
+
+
             foreach (var num in queue)
                 Console.WriteLine(num);
 
