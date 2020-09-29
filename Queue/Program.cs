@@ -18,6 +18,7 @@ namespace Queue
             Console.WriteLine(queue.Contains(4));
             Console.WriteLine(queue.Contains(6));
             Console.WriteLine(queue.Contains(10));
+            Console.WriteLine("\n");
 
 
             foreach (var num in queue)
