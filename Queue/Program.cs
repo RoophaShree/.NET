@@ -30,6 +30,7 @@ namespace Queue
             if(que.Count>0)
             {
                 Console.WriteLine(que.Peek());
+                Console.WriteLine(que.Peek());
                 Console.WriteLine("\n");
             }
 
