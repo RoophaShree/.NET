@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Xml.Schema;
 
 namespace Queue
 {
@@ -16,6 +17,22 @@ namespace Queue
 
             foreach (var num in queue)
                 Console.WriteLine(num);
+
+            Queue<string> que = new Queue<string>();
+            que.Enqueue("H");
+            que.Enqueue("E");
+            que.Enqueue("L");
+            que.Enqueue("L");
+            que.Enqueue("O");
+
+            Console.WriteLine("Total Elements:", +que.Count);
+
+            while(que.Count>0)
+            {
+                Console.WriteLine(que.Dequeue());
+            }
+
+            Console.WriteLine("The total elements after Dequeue: {0}", que.Count);
 
         }
     }
