@@ -27,6 +27,12 @@ namespace Queue
 
             Console.WriteLine("Total Elements:", +que.Count);
 
+            if(que.Count>0)
+            {
+                Console.WriteLine(que.Peek());
+                Console.WriteLine("\n");
+            }
+
             while(que.Count>0)
             {
                 Console.WriteLine(que.Dequeue());
