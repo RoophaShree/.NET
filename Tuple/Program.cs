@@ -21,7 +21,8 @@ using System.Collections;
         Console.WriteLine(numbers.Item5);
         Console.WriteLine(numbers.Item6);
         Console.WriteLine(numbers.Item7);
-        //Console.WriteLine(numbers.Item8);
+        Console.WriteLine(numbers.Rest);
+        //Console.WriteLine(numbers.Rest.Item1);
         }
     }
 
