@@ -2,17 +2,16 @@
 
 public class Program
 {
-	public static void Main()
-	{
-		var numbers = Tuple.Create(1, 2, Tuple.Create(3, 4, 5, 6, 7, 8), 9, 10, 11, 12, 13);
+	static void Main(string[] args)
+{
+    var person = Tuple.Create(1, "Steve", "Jobs");
+    DisplayTuple(person);
+}
 
-		Console.WriteLine(numbers.Item1);
-		Console.WriteLine(numbers.Item2);
-		Console.WriteLine(numbers.Item3); 
-		Console.WriteLine(numbers.Item3.Item1); 
-		Console.WriteLine(numbers.Item4); 
-		Console.WriteLine(numbers.Rest.Item1); 
-
-
-	}
+static void DisplayTuple(Tuple<int,string,string> person)
+{
+    Console.WriteLine($"Id = { person.Item1}");
+    Console.WriteLine($"First Name = { person.Item2}");
+    Console.WriteLine($"Last Name = { person.Item3}");
+}
 }
