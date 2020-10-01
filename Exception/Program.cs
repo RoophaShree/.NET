@@ -6,11 +6,18 @@ namespace Exception
     {
         public static void Main()
         {
-            Console.WriteLine("Enter a number: ");
+            try
+            {
+                Console.WriteLine("Enter a number: ");
 
-            var num = int.Parse(Console.ReadLine());
+                var num = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Squre of {0} is {1}", num, num * num);
+                Console.WriteLine("Squre of {0} is {1}", num, num * num);
+            }
+            catch
+            {
+                Console.WriteLine("Error Occured");
+            }
         }
     }
 }
