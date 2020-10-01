@@ -18,6 +18,10 @@ namespace Exception
             {
                 Console.WriteLine("Error Occured");
             }
+            finally
+            {
+                Console.WriteLine("Retry with a different number");
+            }
         }
     }
 }
