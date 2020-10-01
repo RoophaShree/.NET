@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exception
+namespace Exceptions
 {
     class Program
     {
@@ -14,9 +14,9 @@ namespace Exception
 
                 Console.WriteLine("Squre of {0} is {1}", num, num * num);
             }
-            catch
+            catch(Exception ex)
             {
-                Console.WriteLine("Error Occured");
+                Console.WriteLine("Error Occured:" + ex.Message);
             }
             finally
             {
