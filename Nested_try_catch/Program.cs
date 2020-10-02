@@ -4,6 +4,8 @@ public class Program
 {
 	public static void Main()
 	{
+		Student std = null;
+
 		var divider = 0;
 
 		try
@@ -12,7 +14,7 @@ public class Program
 			{
 				var result = 100 / divider;
 			}
-			catch
+			catch (NullReferenceException ex)
 			{
 				Console.WriteLine("Inner catch");
 			}
@@ -22,4 +24,10 @@ public class Program
 			Console.WriteLine("Outer catch");
 		}
 	}
+}
+
+public class Student
+{
+
+	public string StudentName { get; set; }
 }
