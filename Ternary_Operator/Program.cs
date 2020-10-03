@@ -26,6 +26,13 @@ namespace Ternary_Operator
                                         : r == p ? "r is equal to p" : "No result";
 
             Console.WriteLine(result1);
+
+
+            int c = 5, d = 10, z = 15;
+
+            int result2 = c * 3 > d ? c : d > z ? d : z;
+
+            Console.WriteLine(result2);
         }
     }
 }
