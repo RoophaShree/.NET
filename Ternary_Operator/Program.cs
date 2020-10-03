@@ -18,6 +18,14 @@ namespace Ternary_Operator
                 Console.WriteLine("a is greater than b");
             else
                 Console.WriteLine("a is less than b");
+
+            int r = 10, p = 100;
+
+            string result1 = r > p ? "r is greater than p"
+                                    : r < p ? "r is less than p"
+                                        : r == p ? "r is equal to p" : "No result";
+
+            Console.WriteLine(result1);
         }
     }
 }
