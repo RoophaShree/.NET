@@ -6,7 +6,7 @@ namespace Ternary_Operator
     {
         static void Main(string[] args)
         {
-            int x = 20, y = 10;
+            int x = 10, y = 30;
 
             var result = x > y ? "x is greater than y" : "x is less than or equal to y";
 
