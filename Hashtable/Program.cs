@@ -1,29 +1,20 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
 
 public class Program
 {
 	public static void Main()
 	{
-		Hashtable numberNames = new Hashtable();
-		numberNames.Add(1, "One"); 
-		numberNames.Add(2, "Two");
-		numberNames.Add(3, "Three");
+		Dictionary<int, string> dict = new Dictionary<int, string>();
 
-		
+		dict.Add(1, "one");
+		dict.Add(2, "two");
+		dict.Add(3, "three");
 
-		foreach (DictionaryEntry kvp in numberNames)
-			Console.WriteLine("Key: {0}, Value: {1}", kvp.Key, kvp.Value);
+		Hashtable ht = new Hashtable(dict);
 
-		
-		var cities = new Hashtable(){
-			{"UK", "London, New Castle, Birmingham"},
-			{"USA", "Kansas, Baltimore, Virginia"},
-			{"India", "Bangalore, Warrangal, Hyderabad"}
-		};
-
-		foreach (DictionaryEntry kvp in cities)
-			Console.WriteLine("Key: {0}, Value: {1}", kvp.Key, kvp.Value);
+		Console.WriteLine("Total elements: {0}", ht.Count);
 
 	}
 }
