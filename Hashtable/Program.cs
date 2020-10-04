@@ -8,9 +8,9 @@ public class Program
 	{
 		Dictionary<int, string> dict = new Dictionary<int, string>();
 
-		dict.Add(1, "one");
-		dict.Add(2, "two");
-		dict.Add(3, "three");
+		dict.Add(4, "four");
+		dict.Add(5 , "five");
+		dict.Add(6, "six");
 
 		Hashtable ht = new Hashtable(dict);
 
