@@ -17,9 +17,9 @@ public class Program
 
 		
 		var cities = new Hashtable(){
-			{"UK", "London, Manchester, Birmingham"},
-			{"USA", "Chicago, New York, Washington"},
-			{"India", "Mumbai, New Delhi, Pune"}
+			{"UK", "London, New Castle, Birmingham"},
+			{"USA", "Kansas, Baltimore, Virginia"},
+			{"India", "Bangalore, Warrangal, Hyderabad"}
 		};
 
 		foreach (DictionaryEntry kvp in cities)
