@@ -4,7 +4,7 @@ namespace Largest_number
 {
     class Program
     {
-        static int[] arr = { 10, 324, 45, 90, 9808 };
+        static int[] arr = { 10, 324, 45, 90, 9808, 234568,1,123456789 };
         static int largest()
         {
             int i;
