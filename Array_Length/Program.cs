@@ -4,7 +4,7 @@ class Program
     static void Main()
     {
 
-        int[] arrayA = new int[5];
+        int[] arrayA = new int[10];
         int lengthA = arrayA.Length;
         Console.WriteLine("Length of ArrayA : {0}", +lengthA);
         long longLength = arrayA.LongLength;
