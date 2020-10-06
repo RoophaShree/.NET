@@ -67,7 +67,7 @@ namespace sortQuick
         {
             quickSort q_Sort = new quickSort();
 
-            int[] array = { 4, 3, 1, 4, 6, 7, 5, 4, 32, 5, 26, 187, 8 };
+            int[] array = { 4, 3, 1, 4, 6, 7, 5, 4, 32, 5, 26, 187, 8,45,9876,12345,0987653 };
             q_Sort.array = array;
             q_Sort.len = q_Sort.array.Length;
             q_Sort.QuickSort();
