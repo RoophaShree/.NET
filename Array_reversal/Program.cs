@@ -11,7 +11,7 @@ namespace Array_reversal
             {
                 Console.WriteLine(b);
             }
-            Array.Reverse(array);
+            //Array.Reverse(array);
             Console.WriteLine("Reversed Array is:");
             foreach(int a in array)
             {
