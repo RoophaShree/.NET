@@ -10,7 +10,7 @@ namespace String_length
             Console.WriteLine("The length of the first string is:" + s1.Length);
             string s2 = " ";
             Console.WriteLine("The length of thr second string is:" + s2.Length);
-           // Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
