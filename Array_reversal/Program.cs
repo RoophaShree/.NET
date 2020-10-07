@@ -7,9 +7,9 @@ namespace Array_reversal
         static void Main(string[] args)
         {
             int[] array = { 1, 4, 6, 8, 9, 0, 2, 3 };
-            foreach(int a in array)
+            foreach(int b in array)
             {
-                Console.WriteLine(a);
+                Console.WriteLine(b);
             }
             Array.Reverse(array);
             Console.WriteLine("Reversed Array is:");
