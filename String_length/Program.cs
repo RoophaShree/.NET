@@ -6,7 +6,7 @@ namespace String_length
     {
         static void Main(string[] args)
         {
-            string s1 = "RoophaShree";
+            string s1 = "RoophaShree Kollolu Srinivasa";
             Console.WriteLine("The length of the first string is:" + s1.Length);
             string s2 = " ";
             Console.WriteLine("The length of thr second string is:" + s2.Length);
