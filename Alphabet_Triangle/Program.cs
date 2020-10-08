@@ -5,9 +5,9 @@ public class Albhabet
     {
         char ch = 'A';
         int i, j, k, m;
-        for (i = 1; i <= 10; i++)
+        for (i = 1; i <= 20; i++)
         {
-            for (j = 10; j >= i; j--)
+            for (j = 20; j >= i; j--)
                 Console.Write(" ");
             for (k = 1; k <= i; k++)
                 Console.Write(ch++);
