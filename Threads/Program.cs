@@ -9,7 +9,7 @@ namespace Threads
         {
             Thread t = Thread.CurrentThread;
             t.Name = "MainThread";
-            Console.WriteLine("This is the main Thread inside a process:" +t.Name);
+            Console.WriteLine("This is the main Thread inside a process:{0}", t.Name);
         }
     }
 }
