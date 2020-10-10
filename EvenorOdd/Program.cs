@@ -13,7 +13,7 @@ namespace EvenorOdd
             if (i % 2 == 0)
             {
                 Console.Write("Entered Number is an Even Number");
-                //Console.Read();
+                Console.Read();
             }
             else
             {
