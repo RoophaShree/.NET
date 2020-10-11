@@ -15,7 +15,7 @@ namespace Multiplication
             int result = a * b;
 
             Console.WriteLine("Multiplication is :", +result);
-            Console.ReadLine();
+           // Console.ReadLine();
 
 
 
