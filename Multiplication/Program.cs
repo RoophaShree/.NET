@@ -14,7 +14,7 @@ namespace Multiplication
 
             int result = a * b;
 
-            Console.WriteLine("Multiplication is :{0}", result);
+            Console.WriteLine("Multiplication output:{0}*{1} = {2}", a,b,result);
             //Console.Readkey();
 
 
