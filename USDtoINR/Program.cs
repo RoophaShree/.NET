@@ -17,7 +17,7 @@ namespace USDtoINR
             val = double.Parse(Console.ReadLine());
 
             inr = usd * val;
-            Console.WriteLine("USD " + usd +"---> INR " + inr);
+            Console.WriteLine( "USD " + usd +" is equal to INR " + inr);
         }
     }
 }
