@@ -13,11 +13,11 @@ namespace Convert_Char
 
             if (ch >= 65 && ch <= 90)
             {
-                Console.WriteLine("Convert Character '" + ch + "' into : '" + char.ToLower(ch) + "'");
+                Console.WriteLine("Converted Character '" + ch + "' into : '" + char.ToLower(ch) + "'");
             }
             else if (ch >= 97 && ch <= 122)
             {
-                Console.WriteLine("Convert Character '" + ch + "' into : '" + char.ToUpper(ch) + "'");
+                Console.WriteLine("Converted Character '" + ch + "' into : '" + char.ToUpper(ch) + "'");
             }
         }
     }
