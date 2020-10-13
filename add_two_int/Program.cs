@@ -14,9 +14,9 @@ namespace add_two_int
 
                 
                 Console.Write("Enter first number: ");
-                a = Convert.ToInt32(Console.ReadLine());
+                a = int.Parse(Console.ReadLine());
                 Console.Write("Enter second number: ");
-                b = Convert.ToInt32(Console.ReadLine());
+                b = int.Parse(Console.ReadLine());
 
                 
                 int sum = a + b;
