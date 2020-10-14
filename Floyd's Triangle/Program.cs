@@ -6,17 +6,17 @@ namespace Floyd_s_Triangle
     {
         static void Main(string[] args)
         {
-            int outer = 1;
-            int inner = 1;
+            int i = 1;
+            int j = 1;
             int num = 1;
             int rows = 0;
 
             Console.Write("Enter the number of rows: ");
             rows = int.Parse(Console.ReadLine());
 
-            for (; outer <= rows; outer = outer + 1)
+            for (; i <= rows; i = i + 1)
             {
-                for (inner = 1; inner < outer + 1; inner++)
+                for (j = 1; j < i + 1; j++)
                 {
                     Console.Write(num + " ");
                     num = num + 1;
