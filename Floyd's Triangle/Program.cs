@@ -18,7 +18,7 @@ namespace Floyd_s_Triangle
             {
                 for (j = 1; j < i + 1; j++)
                 {
-                    Console.Write(num + "  ");
+                    Console.Write(num + "");
                     num = num + 1;
                 }
                 Console.WriteLine();
