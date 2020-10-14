@@ -28,6 +28,8 @@ namespace Bitwise_Operators
             result = a >> 2;    
             Console.WriteLine("a >> b : {0}", result);
 
+            Console.ReadLine();
+
 
         }
     }
