@@ -10,9 +10,9 @@ namespace Fractional_Power
             double number2 = 0;
             double number3 = 0;
 
-            number1 = Math.Pow(Math.PI, 3.2);
-            number2 = Math.Pow(1.67, 1.8);
-            number3 = Math.Pow(Math.E, 1.7);
+            number1 = Math.Pow(Math.PI, 3.214);
+            number2 = Math.Pow(1.88, 1.5);
+            number3 = Math.Pow(Math.E, 2.9);
 
             Console.WriteLine("Number1 : " + number1);
             Console.WriteLine("Number2 : " + number2);
