@@ -12,7 +12,7 @@ namespace Cube_root
             Console.Write("Enter the value of number: ");
             number = int.Parse(Console.ReadLine());
 
-            cubeRoot = Math.Ceiling(Math.Pow(number, (double)1 / 3));
+            cubeRoot = Math.Ceiling(Math.Pow(number, (int)1 / 3));
             Console.WriteLine("Cube Root is:" + cubeRoot);
 
             //return 0;
