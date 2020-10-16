@@ -8,7 +8,7 @@ namespace Area_Of_Cone
         {
             double area = 0.0;
 
-            area = Math.PI * radius * (radius + Math.Sqrt(radius * radius + radius * radius));
+            area = Math.PI * radius * (radius + Math.Sqrt(radius * radius + height * height));
 
             return area;
         }
