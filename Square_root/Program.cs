@@ -4,7 +4,7 @@ namespace Square_root
 {
     class Program
     {
-        static int Main(string[] args)
+        static void Main(string[] args)
         {
             int number = 0;
             double squareRoot = 0;
@@ -15,7 +15,7 @@ namespace Square_root
             squareRoot = Math.Ceiling(Math.Pow(number, (double)1 / 2));
             Console.WriteLine("Square Root is : " + squareRoot);
 
-            return 0;
+           // return 0;
         }
     }
 }
