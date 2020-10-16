@@ -12,7 +12,8 @@ namespace Square_root
             Console.Write("Enter the value of number: ");
             number= int.Parse(Console.ReadLine());
 
-            squareRoot = Math.Ceiling(Math.Pow(number, (double)1 / 2));
+            //squareRoot = Math.Ceiling(Math.Pow(number, (double)1 / 2));
+            squareRoot = Math.Sqrt(number);
             Console.WriteLine("Square Root is : " + squareRoot);
 
            // return 0;
