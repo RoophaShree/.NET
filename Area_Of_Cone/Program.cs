@@ -4,13 +4,13 @@ namespace Area_Of_Cone
 {
     class Cone
     {
-        public void CalculateArea(double radius, double height)
+        public double CalculateArea(double radius, double height)
         {
             double area = 0.0;
 
             area = Math.PI * radius * (radius + Math.Sqrt(radius * radius + height * height));
 
-            //return area;
+            return area;
         }
         public static void Main()
         {
