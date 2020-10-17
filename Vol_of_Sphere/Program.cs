@@ -6,7 +6,7 @@ namespace Vol_of_Sphere
     {
         public static float CalculateVolume(float radius)
         {
-            float volume = 0.0F;
+            float volume = 0F;
 
             volume = (float)(4.0 / 3 * Math.PI * radius * radius * radius);
 
@@ -14,8 +14,8 @@ namespace Vol_of_Sphere
         }
         public static void Main()
         {
-            float radius = 0.0F;
-            float volume = 0.0F;
+            float radius = 0F;
+            float volume = 0F;
 
             Console.Write("Enter the value of radius: ");
             radius = float.Parse(Console.ReadLine());
