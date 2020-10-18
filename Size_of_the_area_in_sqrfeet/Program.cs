@@ -10,18 +10,18 @@ namespace Size_of_the_area_in_sqrfeet
         }
         public static void Main()
         {
-            int lengthInFeets = 0;
-            int widthInFeets = 0;
+            int length= 0;
+            int width = 0;
             int plotArea = 0;
 
 
             Console.Write("Enter length of the plot in feets: ");
-            lengthInFeets = int.Parse(Console.ReadLine());
+            length = int.Parse(Console.ReadLine());
 
             Console.Write("Enter width of room in feet:");
-            widthInFeets = int.Parse(Console.ReadLine());
+            width= int.Parse(Console.ReadLine());
 
-            plotArea = calculateArea(lengthInFeets, widthInFeets);
+            plotArea = calculateArea(length, width);
 
             Console.WriteLine("Plot area is " + plotArea + " square feet");
         }
