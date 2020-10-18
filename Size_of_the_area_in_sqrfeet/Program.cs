@@ -16,10 +16,10 @@ namespace Size_of_the_area_in_sqrfeet
 
 
             Console.Write("Enter length of the plot in feets: ");
-            lengthInFeets = Convert.ToInt32(Console.ReadLine());
+            lengthInFeets = int.Parse(Console.ReadLine());
 
             Console.Write("Enter width of room in feet:");
-            widthInFeets = Convert.ToInt32(Console.ReadLine());
+            widthInFeets = int.Parse(Console.ReadLine());
 
             plotArea = calculateArea(lengthInFeets, widthInFeets);
 
