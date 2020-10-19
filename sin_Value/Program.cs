@@ -28,7 +28,7 @@ namespace sin_Value
             int degree = 0;
             int terms = 0;
 
-            double result = 0.0;
+            double result = 0;
 
             Console.Write("Enter the angle in Degrees:");
             degree = int.Parse(Console.ReadLine());
