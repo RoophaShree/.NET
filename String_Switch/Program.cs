@@ -6,15 +6,15 @@ namespace String_Switch
     {
         static void Main(string[] args)
         {
-            string gender = "Male";
+            string gender = "Female";
 
             switch (gender)
             {
-                case "Male":
+                case "Female":
                     Console.WriteLine("I am Roopa");
                     break;
-                case "Female":
-                    Console.WriteLine("My mom name is Jyothi...");
+                case "Male":
+                    Console.WriteLine("My dad name is Srinivas...");
                     break;
                 default:
                     Console.WriteLine("Default");
@@ -22,7 +22,7 @@ namespace String_Switch
             }
 
             
-            Console.ReadLine();
+           // Console.ReadLine();
         }
     }
 }
