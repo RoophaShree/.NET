@@ -11,10 +11,10 @@ namespace String_Switch
             switch (gender)
             {
                 case "Male":
-                    Console.WriteLine("He is male...");
+                    Console.WriteLine("I am Roopa");
                     break;
                 case "Female":
-                    Console.WriteLine("She is female...");
+                    Console.WriteLine("My mom name is Jyothi...");
                     break;
                 default:
                     Console.WriteLine("Default");
