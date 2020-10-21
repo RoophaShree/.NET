@@ -8,7 +8,7 @@ namespace Reversal_of_num
         {
 			
 			
-				int a = 721, rev = 0, b;
+				int a = 459082, rev = 0, b;
 
 				
 				while (a != 0)
