@@ -8,7 +8,7 @@ namespace Reversal_of_num
         {
 			
 			
-				int a = 459082891, rev = 0, b;
+				double a = 4590828913456789013, rev = 0, b;
 
 				
 				while (a != 0)
