@@ -20,7 +20,10 @@ namespace Count_lines
         }
         static void Main()
         {
-            string str = "I am RoophaShree\n I am pyrsuing my masters in UCM\n I will complete my masters in the month of May 2021";
+            string str = "I am RoophaShree\n " +
+                "I am pyrsuing my masters in UCM\n " +
+                "I will complete my masters in the month of May 2021\n"+
+                "I love to code";
 
             int lines = 0;
 
