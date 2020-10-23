@@ -6,7 +6,7 @@ namespace Compare_strings
     {
         static void Main()
         {
-            string str = "Helloo";
+            string str = "Hello";
 
             if (str.CompareTo("Helloo") == 0)
             {
