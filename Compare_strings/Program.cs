@@ -6,9 +6,9 @@ namespace Compare_strings
     {
         static void Main()
         {
-            string str = "Hello";
+            string str = "Helloo";
 
-            if (str.CompareTo("Hello") == 0)
+            if (str.CompareTo("Helloo") == 0)
             {
                 Console.WriteLine("String is matched");
             }
