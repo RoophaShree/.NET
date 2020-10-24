@@ -2,9 +2,10 @@
 using System.IO;
 using System.Text;
 
-namespace IncludeHelp
+namespace weekday
+
 {
-    class Test
+    class Program
     {
         
         static void Main(string[] args)
