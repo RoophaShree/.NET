@@ -20,10 +20,10 @@ namespace Smallest_num_in_integers
             small = a[0];
             for (i = 1; i < a.Length; i++)
             {
-                if (small > a[i])
+                if (small < a[i])
                 small = a[i];
             }
-            Console.WriteLine("The smallest element among the array elements are:" + small);
+            Console.WriteLine("The Smallest element among the array elements are:" + small);
         }
     }
 }
