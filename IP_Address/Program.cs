@@ -7,7 +7,7 @@ namespace IP_Address
     {
         static void Main()
         {
-            IPAddress[] ips;
+            IPAddress[] ip;
             IPHostEntry entry;
             string hostName = "";
 
@@ -15,11 +15,11 @@ namespace IP_Address
             Console.WriteLine("Hostname of computer: " + hostName);
 
             entry = Dns.GetHostEntry(hostName);
-            ips = entry.AddressList;
+            ip = entry.AddressList;
 
-            for (int i = 0; i < ips.Length; i++)
+            for (int i = 0; i < ip.Length; i++)
             {
-                Console.WriteLine("IP Address: " + ips[i]);
+                Console.WriteLine("IP Address: " + ip[i]);
             }
         }
     }
