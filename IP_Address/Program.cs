@@ -17,7 +17,7 @@ namespace IP_Address
             entry = Dns.GetHostEntry(hostName);
             ip = entry.AddressList;
 
-            for (int i = 1; i < ip.Length; i++)
+            for (int i = 0; i < ip.Length; i++)
             {
                 Console.WriteLine("IP Address: " + ip[i]);
             }
