@@ -54,7 +54,7 @@ class Program
             {
                 Console.Write("*");
             }
-            Console.WriteLine("\n");
+            Console.WriteLine(" ");
         }
     }
 }
