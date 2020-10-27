@@ -36,7 +36,7 @@ namespace Start_Pattern
                 }
                  Console.WriteLine();
             }
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }
