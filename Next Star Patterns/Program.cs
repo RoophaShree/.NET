@@ -7,7 +7,7 @@ namespace Next_Star_Patterns
         static void Main(string[] args)
         {
             int i, j;
-            for (i = 1; i <= 5; i++)
+            for (i = 5; i >= 1; i--)
             {
                 for (j = 1; j <= i; j++)
                 {
