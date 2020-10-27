@@ -20,9 +20,7 @@ namespace starpattern
     }
 }
 */
-
 using System;
-
 namespace Start_Pattern
 {
     class Program
@@ -34,7 +32,7 @@ namespace Start_Pattern
             {
                 for (j = 1; j <= i; j++) 
                 {
-                    Console.WriteLine("*");
+                    Console.Write("*");
                 }
                  Console.WriteLine();
             }
