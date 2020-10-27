@@ -4,7 +4,7 @@ namespace Perimeter_of_circle
 {
     class Program
     {
-        public static void Main()
+        public static int Main()
         {
             float radius = 0F;
             float parimeter = 0F;
@@ -15,7 +15,7 @@ namespace Perimeter_of_circle
             parimeter = (float)(2 * Math.PI * radius);
             Console.WriteLine("Perimeter of Circle is: " + parimeter);
 
-           // return 0;
+           return 0;
         }
     }
 }
