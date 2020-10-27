@@ -6,7 +6,22 @@ namespace Next_Star_Patterns
     {
         static void Main(string[] args)
         {
-            int i, k,j;
+
+            int i, j;
+
+            for (i = 1; i <= 5; i++)
+            {
+                for (j = 1; j <= 5; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+}
+
+           /* int i, k,j;
             for (i = 5; i >= 1; i--)
             {
                 for (j = 1; j <= i; j++)
@@ -23,3 +38,4 @@ namespace Next_Star_Patterns
         }
     }
 }
+*/
