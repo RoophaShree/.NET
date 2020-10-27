@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 
 namespace Start_Pattern
 {
@@ -6,24 +6,24 @@ namespace Start_Pattern
     {
         static void Main(string[] args)
         {
-            //int row = 0;
-            //int col = 0;
+            
 
-            for (int row = 4; row >= 1; --row)
+            for (int row = 5; row >= 1; row--)
             {
-                for (int col = 1; col >= 1; ++col)
+                for (int col = 1; col <= row; col++)
                 {
                     Console.WriteLine("*");
                 }
 
                 Console.WriteLine();
             }
+            Console.ReadLine();
         }
     }
 }
 
 
-using System.IO;
+/*using System.IO;
 using System;
 class Program
 {
@@ -39,12 +39,12 @@ class Program
         }
     }
 }
-*/
+
 
 using System.IO;
 using System;
 
-class Program
+/*class Program
 {
     static void Main()
     {
@@ -58,3 +58,4 @@ class Program
         }
     }
 }
+*/
