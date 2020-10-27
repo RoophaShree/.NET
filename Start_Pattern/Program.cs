@@ -1,4 +1,27 @@
-﻿using System;
+﻿/*using System;
+
+namespace starpattern
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i, j;
+            for (i = 5; i >= 1; i--)
+            {
+                for (j = 1; j <= i; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+            Console.ReadLine();
+        }
+    }
+}
+*/
+
+using System;
 
 namespace Start_Pattern
 {
@@ -6,16 +29,14 @@ namespace Start_Pattern
     {
         static void Main(string[] args)
         {
-            
-
-            for (int row = 5; row >= 1; row--)
+            int i, j;
+            for (i = 5; i >= 1; i--) 
             {
-                for (int col = 1; col <= row; col++)
+                for (j = 1; j <= i; j++) 
                 {
                     Console.WriteLine("*");
                 }
-
-                Console.WriteLine();
+                 Console.WriteLine();
             }
             Console.ReadLine();
         }
