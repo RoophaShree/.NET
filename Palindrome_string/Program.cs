@@ -8,7 +8,9 @@ namespace Palindrome_string
             static void Main(string[] args)
             {
                 string string1, rev;
-                string1 = "Malayalam";
+            Console.WriteLine("Enter the string");
+
+            string1 = Console.ReadLine();
                 char[] ch = string1.ToCharArray();
                 Array.Reverse(ch);
                 rev = new string(ch);
