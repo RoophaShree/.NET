@@ -23,7 +23,7 @@ namespace Palindrome_string
                 {
                     Console.WriteLine(" " + string1 + " is not a Palindrome!");
                 }
-                Console.Read();
+               // Console.Read();
             }
         }
     }
