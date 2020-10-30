@@ -1,10 +1,9 @@
 ﻿using System;
 namespace Inheritance_concept
 {
+
     class Roopa
     {
-
-
         public string name;
         public string subject;
 
@@ -21,7 +20,7 @@ namespace Inheritance_concept
 
             public Masters()
             {
-                Console.WriteLine("Masters");
+                Console.WriteLine("Masters in Big Data");
             }
         }
 
@@ -35,7 +34,7 @@ namespace Inheritance_concept
                 Masters m = new Masters();
 
 
-                m.readers("Roo", "C#");
+                m.readers("RoopaShree", "C#");
             }
         }
     }
