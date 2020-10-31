@@ -14,7 +14,7 @@ class Program
         num1 = int.Parse(Console.ReadLine());
 
         Console.Write("Enter the 2nd Number : ");
-        num2 = Convert.ToInt32(Console.ReadLine());
+        num2 = Int32.Parse(Console.ReadLine());
 
         GCD = G.GetGcd(num1, num2);
 
