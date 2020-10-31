@@ -11,7 +11,7 @@ class Program
         Program G = new Program(); 
 
         Console.Write("Enter the 1st Number : ");
-        num1 = Convert.ToInt32(Console.ReadLine());
+        num1 = int.Parse(Console.ReadLine());
 
         Console.Write("Enter the 2nd Number : ");
         num2 = Convert.ToInt32(Console.ReadLine());
