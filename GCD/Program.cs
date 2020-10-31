@@ -8,7 +8,7 @@ class Program
         int num2 = 0;
         int GCD = 0;
 
-        Program G = new Program(); ;
+        Program G = new Program(); 
 
         Console.Write("Enter the 1st Number : ");
         num1 = Convert.ToInt32(Console.ReadLine());
@@ -18,7 +18,7 @@ class Program
 
         GCD = G.GetGcd(num1, num2);
 
-        Console.WriteLine("\nThe Greatest Common Divisor is: " + GCD);
+        Console.WriteLine("\n The Greatest Common Divisor is: " + GCD);
     }
     int GetGcd(int number1, int number2)
     {
