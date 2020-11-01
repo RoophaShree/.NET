@@ -8,19 +8,19 @@ namespace armstrong
         {
             int i = 0;
             int Count = 0;
-            int number = 0;
-            int tNumber = 0;
+            int num = 0;
+            int tNum = 0;
             int[] Array = new int[10];
             double sum = 0;
 
             Console.Write("Enter Number : ");
-            tNumber = number = int.Parse(Console.ReadLine());
+            tNum = num = int.Parse(Console.ReadLine());
 
             
-            while (number > 0)
+            while (num > 0)
             {
-                Array[i++] = number % 10;
-                number = number / 10;
+                Array[i++] = num % 10;
+                num = num / 10;
                 Count++;
             }
 
@@ -28,7 +28,7 @@ namespace armstrong
             {
                 sum += Math.Pow(Array[i], Count);
             }
-            if (sum == tNumber)
+            if (sum == tNum)
                 Console.WriteLine("Given Number is an armstrong");
             else
                 Console.WriteLine("Given Number is not an armstrong");
