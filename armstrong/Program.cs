@@ -7,10 +7,10 @@ namespace armstrong
         static void Main(string[] args)
         {
             int i = 0;
-            int digiCount = 0;
+            int Count = 0;
             int number = 0;
             int tNumber = 0;
-            int[] digiArray = new int[10];
+            int[] Array = new int[10];
             double sum = 0;
 
             Console.Write("Enter Number : ");
@@ -19,14 +19,14 @@ namespace armstrong
             
             while (number > 0)
             {
-                digiArray[i++] = number % 10;
+                Array[i++] = number % 10;
                 number = number / 10;
-                digiCount++;
+                Count++;
             }
 
-            for (i = 0; i < digiCount; i++)
+            for (i = 0; i < Count; i++)
             {
-                sum += Math.Pow(digiArray[i], digiCount);
+                sum += Math.Pow(Array[i], Count);
             }
             if (sum == tNumber)
                 Console.WriteLine("Given Number is armstrong");
