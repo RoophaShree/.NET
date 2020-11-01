@@ -29,9 +29,9 @@ namespace armstrong
                 sum += Math.Pow(Array[i], Count);
             }
             if (sum == tNumber)
-                Console.WriteLine("Given Number is armstrong");
+                Console.WriteLine("Given Number is an armstrong");
             else
-                Console.WriteLine("Given Number is not armstrong");
+                Console.WriteLine("Given Number is not an armstrong");
         }
     }
 }
