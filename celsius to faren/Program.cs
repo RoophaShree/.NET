@@ -5,7 +5,7 @@ namespace celsius_to_faren
     class Program
     {
 
-        static double convertToFahrenheit(double celTemp)
+        static double convertToFahren(double celTemp)
         {
             double fTemp = 0;
 
@@ -21,7 +21,7 @@ namespace celsius_to_faren
             Console.Write("Enter the value of temperature in Celsius(°C): ");
             celTemp = double.Parse(Console.ReadLine());
 
-            ferTemp = convertToFahrenheit(celTemp);
+            ferTemp = convertToFahren(celTemp);
             Console.WriteLine("Fahrenheit temperature is(°F) : " + ferTemp);
         }
     }
