@@ -1,22 +1,16 @@
-﻿using System;
-#if PRINT_MSG_TYPE1
+﻿#define PRINT_MSG_TYPE1
 
-
-namespace Hash_define_preprocessor
+using System;
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
 #if PRINT_MSG_TYPE1
-            Console.WriteLine("Print message type1 on console screen");
+        Console.WriteLine("Print message type1 on console screen");
 #endif
 
 #if PRINT_MSG_TYPE2
             Console.WriteLine("Print message type2 on console screen");
 #endif
-        }
     }
 }
-    
-#endif
