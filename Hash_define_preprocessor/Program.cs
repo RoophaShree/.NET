@@ -1,4 +1,5 @@
 ﻿using System;
+#if PRINT_MSG_TYPE1
 
 
 namespace Hash_define_preprocessor
@@ -18,3 +19,4 @@ namespace Hash_define_preprocessor
     }
 }
     
+#endif
