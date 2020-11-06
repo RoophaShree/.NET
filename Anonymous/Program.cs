@@ -9,7 +9,7 @@ namespace Anonymous
         {
             int i = 10;
             Print print = delegate (int val) {
-                val += i;
+                val + = i;
                 Console.WriteLine("Inside Anonymous method. Value: {0}", val);
             };
 
