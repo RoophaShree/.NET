@@ -10,14 +10,14 @@ namespace Del_num_frm_array
             int pos = -1;
             int item = 0;
 
-            int[] arr1 = new int[5];
+            int[] arr = new int[5];
 
             
             Console.WriteLine("Enter numbers : ");
             for (i = 0; i < 5; i++)
             {
                 Console.Write("Element[" + (i + 1) + "]: ");
-                arr1[i] = int.Parse(Console.ReadLine());
+                arr[i] = int.Parse(Console.ReadLine());
             }
 
             Console.Write("Enter item to delete : ");
@@ -25,7 +25,7 @@ namespace Del_num_frm_array
 
             for (i = 0; i < 5; i++)
             {
-                if (item == arr1[i])
+                if (item == arr[i])
                 {
                     pos = i;
                     break;
@@ -39,14 +39,14 @@ namespace Del_num_frm_array
             else
             {
                 
-                for (i = pos; i < arr1.Length - 1; i++)
+                for (i = pos; i < arr.Length - 1; i++)
                 {
-                    arr1[i] = arr1[i + 1];
+                    arr[i] = arr[i + 1];
                 }
                 Console.WriteLine("Array elements after deletion : ");
                 for (i = 0; i < 4; i++)
                 {
-                    Console.WriteLine("Element[" + (i + 1) + "]: " + arr1[i]);
+                    Console.WriteLine("Element[" + (i + 1) + "]: " + arr[i]);
 
                 }
             }
