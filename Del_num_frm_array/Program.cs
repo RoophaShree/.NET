@@ -7,7 +7,7 @@ namespace Del_num_frm_array
         static void Main(string[] args)
         {
             int i = 0;
-            int pos = -1;
+            int j = -1;
             int item = 0;
 
             int[] arr = new int[5];
@@ -27,19 +27,19 @@ namespace Del_num_frm_array
             {
                 if (item == arr[i])
                 {
-                    pos= i;
+                    j = i;
                     break;
                 }
             }
 
-            if (pos == -1)
+            if (j == -1)
             {
                 Console.WriteLine("Element did not find in an array");
             }
             else
             {
                 
-                for (i = pos; i < arr.Length - 1; i++)
+                for (i = j; i < arr.Length - 1; i++)
                 {
                     arr[i] = arr[i + 1];
                 }
