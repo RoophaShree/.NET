@@ -47,7 +47,6 @@ namespace Del_num_frm_array
                 for (i = 0; i < 4; i++)
                 {
                     Console.WriteLine("Element[" + (i + 1) + "]: " + arr[i]);
-
                 }
             }
             Console.WriteLine();
