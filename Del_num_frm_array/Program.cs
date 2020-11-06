@@ -16,7 +16,7 @@ namespace Del_num_frm_array
             Console.WriteLine("Enter numbers : ");
             for (i = 0; i < 5; i++)
             {
-                Console.Write("Element[" + (i + 1) + "]: ");
+                Console.Write("Element[" +(i + 1) +"]: ");
                 arr[i] = int.Parse(Console.ReadLine());
             }
 
