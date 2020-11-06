@@ -34,7 +34,7 @@ namespace Del_num_frm_array
 
             if (pos == -1)
             {
-                Console.WriteLine("Element did not find in array");
+                Console.WriteLine("Element did not find in an array");
             }
             else
             {
