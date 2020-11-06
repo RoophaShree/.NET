@@ -23,7 +23,7 @@ namespace Del_num_frm_array
             Console.Write("Enter item to delete : ");
             item = int.Parse(Console.ReadLine());
 
-            for (i = 0; i < 5; i++)
+            for (i = 0;i < 5;i++)
             {
                 if (item == arr[i])
                 {
