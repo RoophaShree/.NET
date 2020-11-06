@@ -27,7 +27,7 @@ namespace Del_num_frm_array
             {
                 if (item == arr[i])
                 {
-                    pos = i;
+                    pos= i;
                     break;
                 }
             }
