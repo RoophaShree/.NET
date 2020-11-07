@@ -4,14 +4,14 @@ namespace Factor
 {
     class Program
     {
-        static void PrintFactors(int number)
+        static void PrintFactors(int num)
         {
             int iLoop = 0;
-            Console.WriteLine("The all factors of " + number + " are :");
+            Console.WriteLine("The all factors of " + num + " are :");
 
-            for (iLoop = 1; iLoop <= number; iLoop++)
+            for (iLoop = 1; iLoop <= num; iLoop++)
             {
-                if (number % iLoop == 0)
+                if (num % iLoop == 0)
                 {
                     Console.Write(iLoop + " ");
                 }
@@ -19,11 +19,11 @@ namespace Factor
         }
         static void Main(string[] args)
         {
-            int number = 0;
+            int num = 0;
             Console.Write("Enter an integer number: ");
-            number = int.Parse(Console.ReadLine());
+            num = int.Parse(Console.ReadLine());
 
-            PrintFactors(number);
+            PrintFactors(num);
 
             Console.WriteLine();
         }
