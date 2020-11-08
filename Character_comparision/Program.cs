@@ -10,9 +10,9 @@ namespace Character_comparision
             int ch2;
 
             
-            Console.Write("Enter a character: ");
+            Console.Write("Enter a character/number: ");
             ch1 = Console.ReadLine()[0];
-            Console.Write("Enter another character: ");
+            Console.Write("Enter another character/number: ");
             ch2 = Console.ReadLine()[0];
 
             
