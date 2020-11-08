@@ -17,9 +17,9 @@ namespace Character_comparision
 
             
             if (ch1 == ch2)
-                Console.WriteLine("Input characters are the same");
+                Console.WriteLine("Entered inputs are the same");
             else
-                Console.WriteLine("Input characters are not the same");
+                Console.WriteLine("Entered outputs are not the same");
 
             
             Console.ReadLine();
