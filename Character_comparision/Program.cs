@@ -6,8 +6,8 @@ namespace Character_comparision
     {
         static void Main(string[] args)
         {
-            char ch1;
-            char ch2;
+            int ch1;
+            int ch2;
 
             
             Console.Write("Enter a character: ");
