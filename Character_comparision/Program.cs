@@ -11,7 +11,7 @@ namespace Character_comparision
 
             
             Console.Write("Enter a character: ");
-            ch1 = Console.ReadLine()[0];
+            ch1 = Console.ReadLine();
             Console.Write("Enter another character: ");
             ch2 = Console.ReadLine()[0];
 
