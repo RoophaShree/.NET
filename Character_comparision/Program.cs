@@ -22,7 +22,7 @@ namespace Character_comparision
                 Console.WriteLine("Entered outputs are not the same");
 
             
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }
