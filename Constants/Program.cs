@@ -6,11 +6,11 @@ namespace Constants
     {
         static void Main(string[] args)
         {
-            const int a = 10;   //integer constant 
-            const float b = 20.23f; //float constant
-            const double c = 10.23;  //double constant
-            const char d = 'Y';     //character constant 
-            const string e = "Hello";   //string constant
+            const int a = 10;   //integer  
+            const float b = 20.23f; //float 
+            const double c = 10.23;  //double 
+            const char d = 'Y';     //character  
+            const string e = "Hello";   //string 
 
             
             Console.WriteLine("a: {0}", a);
