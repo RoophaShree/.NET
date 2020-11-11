@@ -9,7 +9,7 @@ namespace Relational_Operator
             int a = 10;
             int b = 3;
 
-            //printing return type
+            
             Console.WriteLine("Return type of == operator: {0}", (a == b).GetType());
             Console.WriteLine("Return type of != operator: {0}", (a != b).GetType());
             Console.WriteLine("Return type of > operator : {0}", (a > b).GetType());
@@ -23,7 +23,7 @@ namespace Relational_Operator
             Console.WriteLine("a<b : {0}", (a < b));
             Console.WriteLine("a<=b: {0}", (a <= b));
 
-            //checking conditions
+            
             if (a == b)
                 Console.WriteLine("a is equal to b");
             else
@@ -49,7 +49,7 @@ namespace Relational_Operator
             else
                 Console.WriteLine("a is not less than or equal to b");
 
-            //checking conditions in another way
+            
             if ((a == b) == true)
                 Console.WriteLine("a is equal to b");
             else
@@ -75,7 +75,7 @@ namespace Relational_Operator
             else
                 Console.WriteLine("a is not less than or equal to b");
 
-            //hit ENTER to exit the program
+            
             Console.ReadLine();
         }
     }
