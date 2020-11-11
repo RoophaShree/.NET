@@ -6,8 +6,8 @@ namespace Relational_Operator
     {
         static void Main(string[] args)
         {
-            int a = 10;
-            int b = 3;
+            int a = 1;
+            int b = 30;
 
             
             Console.WriteLine("Return type of == operator: {0}", (a == b).GetType());
