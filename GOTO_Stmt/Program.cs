@@ -22,7 +22,7 @@ namespace GOTO_Stmt
 
             Console.WriteLine("Result : " + result);
 
-            Console.WriteLine("Do you want to calculate power again?? Press 1 for Yes, Press 2 for No: ");
+            //Console.WriteLine("Do you want to calculate power again?? Press 1 for Yes, Press 2 for No: ");
             choice = int.Parse(Console.ReadLine());
 
             //if (choice == 1)
