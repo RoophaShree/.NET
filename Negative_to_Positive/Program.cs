@@ -20,7 +20,7 @@ namespace Negative_to_Positive
             {
                 Console.Write(arr[loop] + " ");
             }
-            Console.WriteLine();
+            //Console.WriteLine();
         }
     }
 }
