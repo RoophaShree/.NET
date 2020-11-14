@@ -17,7 +17,7 @@ namespace Eample
         }
         public static void Main()
         {
-            int num = 34521;
+            int num = 3452112;
             int mag = 0;
 
             mag = GetMagnitude(num);
