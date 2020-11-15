@@ -26,7 +26,7 @@ namespace EvenOdd
                 }
             }
 
-            Console.WriteLine();
+            //Console.WriteLine();
         }
     }
 }
