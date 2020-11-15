@@ -9,7 +9,7 @@ namespace EvenOdd
             int i = 0;
 
             Console.WriteLine("Even Numbers :");
-            for (i = 1; i <= 30; i++)
+            for (i = 1; i <= 40; i++)
             {
                 if (i % 2 == 0)
                 {
@@ -18,7 +18,7 @@ namespace EvenOdd
             }
 
             Console.WriteLine("\nOdd Numbers :");
-            for (i = 1; i <= 30; i++)
+            for (i = 1; i <= 40; i++)
             {
                 if (i % 2 != 0)
                 {
