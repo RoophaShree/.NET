@@ -17,7 +17,7 @@ namespace EvenOdd
                 }
             }
 
-            Console.WriteLine("\nOdd Numbers :");
+            Console.WriteLine("\n Odd Numbers :");
             for (i = 1; i <= 40; i++)
             {
                 if (i % 2 != 0)
