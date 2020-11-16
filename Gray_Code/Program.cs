@@ -15,13 +15,13 @@ namespace Gray_Code
 
         static void Main(string[] args)
         {
-            int loop = 0;
+            int i = 0;
 
             Console.WriteLine("Number\tGray Code");
 
-            for (loop = 0; loop < 5; loop++)
+            for (i = 0; i < 5; i++)
             {
-                Console.WriteLine(string.Format("{0}\t{1}", loop, Convert.ToString((int)CreateGraycode(loop), 2)));
+                Console.WriteLine(string.Format("{0}\t{1}", i, Convert.ToString((int)CreateGraycode(i), 2)));
             }
         }
     }
