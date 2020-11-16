@@ -17,7 +17,7 @@ namespace Gray_Code
         {
             int i = 0;
 
-            Console.WriteLine("Number \t Gray Code");
+            Console.WriteLine("Number \tGray Code");
 
             for (i = 0; i < 5; i++)
             {
