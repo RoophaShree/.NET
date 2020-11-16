@@ -19,7 +19,7 @@ namespace Gray_Code
 
             Console.WriteLine("Number \tGray Code");
 
-            for (i = 0; i < 10; i++)
+            for (i = 0; i < 2; i++)
             {
                 Console.WriteLine(string.Format("{0}\t{1}", i, Convert.ToString((int)CreateGraycode(i), 2)));
             }
