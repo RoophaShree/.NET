@@ -9,12 +9,12 @@ namespace Compund_Interest
             static void CalculateCompoundInterest(double amount, double roi, int years, int annualCompound)
             {
                 double result = 0;
-                int loop = 0;
+                int i = 0;
 
-                for (loop = 1; loop <= years; loop++)
+                for (i = 1; i <= years; i++)
                 {
-                    result = amount * Math.Pow((1 + roi / annualCompound), (annualCompound * loop));
-                    Console.WriteLine("Your amount after {0} Year " + ": {1}", loop, result);
+                    result = amount * Math.Pow((1 + roi / annualCompound), (annualCompound * i));
+                    Console.WriteLine("Your amount after {0} Year " + ": {1}", i, result);
                 }
 
             }
