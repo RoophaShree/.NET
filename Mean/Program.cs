@@ -12,11 +12,11 @@ namespace Mean
             double mean = 0;
             double sum = 0;
 
-            int loop = 0;
+            int i = 0;
 
-            for (loop = 0; loop < list.Count; loop++)
+            for (i = 0; i < list.Count; i++)
             {
-                sum += list[loop];
+                sum += list[i];
             }
 
             mean = sum / (list.Count - 0);
