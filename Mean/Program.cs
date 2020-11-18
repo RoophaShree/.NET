@@ -7,7 +7,7 @@ namespace Mean
     {
         static void Main(string[] args)
         {
-            List<double> list = new List<double> { 11, 22, 33, 44, 55 };
+            List<double> list = new List<double> { 11, 22, 33, 44, 55,87};
 
             double mean = 0;
             double sum = 0;
