@@ -6,15 +6,15 @@ namespace Perimeter_of_Rectangle
     {
         public static int Main()
         {
-            float length = 0.0F;
-            float width = 0.0F;
-            float perimeter = 0.0F;
+            int length = 0;
+            int width = 0;
+            int perimeter = 0;
 
             Console.Write("Enter the value of length: ");
-            length = float.Parse(Console.ReadLine());
+            length = int.Parse(Console.ReadLine());
 
             Console.Write("Enter the value of width: ");
-            width = float.Parse(Console.ReadLine());
+            width = int.Parse(Console.ReadLine());
 
             perimeter = 2 * (length + width);
 
