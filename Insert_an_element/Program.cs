@@ -11,7 +11,7 @@ namespace Insert_an_element
             int item = 0;
             int[] arr = new int[10];
 
-            //Read numbers into array
+            
             Console.WriteLine("Enter numbers : ");
             for (i = 0; i < 5; i++)
             {
