@@ -12,7 +12,7 @@ namespace Insert_an_element
             int[] arr = new int[10];
 
             
-            Console.WriteLine("Enter numbers : ");
+            Console.WriteLine("Enter the array of numbers : ");
             for (i = 0; i < 5; i++)
             {
                 Console.Write("Element[" + (i + 1) + "]: ");
