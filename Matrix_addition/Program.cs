@@ -72,7 +72,9 @@ namespace Matrix_addition
                     Console.Write(Matrix3[i, j] + "\t");
 
                 }
-                Console.WriteLine();
+
             }
+        }
     }
 }
+
