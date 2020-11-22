@@ -9,8 +9,8 @@ namespace Matrix_addition
             int i = 0;
             int j = 0;
 
-            int row = 2;
-            int col = 2;
+            int row = 3;
+            int col = 3;
 
             int[,] Matrix1 = new int[row, col];
             int[,] Matrix2 = new int[row, col];
