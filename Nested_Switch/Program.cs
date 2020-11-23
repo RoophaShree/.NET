@@ -54,7 +54,7 @@ namespace Nested_Switch
                     Console.WriteLine("Invalid number");
                     break;
             }
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }
