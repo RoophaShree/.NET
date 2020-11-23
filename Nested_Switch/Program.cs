@@ -8,11 +8,11 @@ namespace Nested_Switch
         {
             int number;
 
-            //input a number
+            
             Console.Write("Enter a number (1-3): ");
             number = Convert.ToInt32(Console.ReadLine());
 
-            //outer switch statement
+            
             switch (number)
             {
                 case 1:
