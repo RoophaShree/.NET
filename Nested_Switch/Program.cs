@@ -16,13 +16,11 @@ namespace Nested_Switch
             switch (number)
             {
                 case 1:
-                    //using another case 
-                    //it will input R,G or B and print the color
+               
                     char color;
                     Console.Write("Enter color value (R/G/B): ");
                     color = Console.ReadLine()[0];
-                    //validating it using switch case
-                    //inner switch
+                  
                     switch (color)
                     {
                         case 'R':
