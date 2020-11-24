@@ -4,7 +4,7 @@ namespace Volume_of_sphere
 {
     class Sphere
     {
-        public static float CalculateVolume(float radius)
+        public static float CalVolume(float radius)
         {
             float volume = 0.0F;
 
@@ -20,7 +20,7 @@ namespace Volume_of_sphere
             Console.Write("Enter the value of radius: ");
             radius = float.Parse(Console.ReadLine());
 
-            volume = CalculateVolume(radius);
+            volume = CalVolume(radius);
             Console.WriteLine("Volume of Sphere: " + volume);
         }
     }
