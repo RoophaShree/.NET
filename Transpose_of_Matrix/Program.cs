@@ -1,6 +1,6 @@
 ﻿using System;
 
-class MatrixDemo
+class Traspose
 {
     public static void Main(string[] args)
     {
