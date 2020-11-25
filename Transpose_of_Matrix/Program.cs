@@ -32,7 +32,7 @@ class Traspose
             Console.WriteLine();
         }
 
-        Console.WriteLine("Transpose of matrix : ");
+        Console.WriteLine("Transpose of matrix is: ");
         for (i = 0; i < col; i++)
         {
             for (j = 0; j < row; j++)
