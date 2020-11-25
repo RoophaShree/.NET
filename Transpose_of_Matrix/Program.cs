@@ -40,7 +40,7 @@ class Traspose
                 Console.Write(Matrix[j, i] + "\t");
 
             }
-            Console.WriteLine();
+            //Console.WriteLine();
         }
     }
 }
