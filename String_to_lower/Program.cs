@@ -17,6 +17,4 @@ namespace String_to_lower
             Console.WriteLine("Converted string to lower case is: " + str2);
         }
     }
-
-
 }
