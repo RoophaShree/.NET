@@ -14,7 +14,7 @@ namespace String_to_lower
 
             str2 = str1.ToLower();
 
-            Console.WriteLine("Converted string is: " + str2);
+            Console.WriteLine("Converted string to lower case is: " + str2);
         }
     }
 
