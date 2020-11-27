@@ -9,7 +9,7 @@ namespace String_to_lower
             String str1;
             String str2;
 
-            Console.Write("Enter string : ");
+            Console.Write("Enter string to be converted : ");
             str1 = Console.ReadLine();
 
             str2 = str1.ToLower();
