@@ -15,7 +15,7 @@ namespace Console
             {
                 Console.WriteLine(item);
             }
-            Console.ReadKey();
+             Console.ReadKey();
         }
     }
 }
