@@ -13,7 +13,7 @@ class program
             Console.WriteLine("\t 2:Get number to phone book");
             Console.WriteLine("\t 3:Exit");
             Console.WriteLine("\n ##################################");
-            Console.WriteLine("\n\nEnter choice: ");
+            Console.WriteLine("\n\n Enter choice: ");
             int choice = Convert.ToInt32(Console.ReadLine());
 
             switch (choice)
