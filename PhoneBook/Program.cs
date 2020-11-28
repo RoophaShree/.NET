@@ -10,7 +10,7 @@ class program
         {
             Console.WriteLine("\n #############PhoneBook############");
             Console.WriteLine("\t 1:Add number to phone book");
-            Console.WriteLine("\t2:Get number to phone book");
+            Console.WriteLine("\t 2:Get number to phone book");
             Console.WriteLine("\t3:Exit");
             Console.WriteLine("\n##################################");
             Console.WriteLine("\n\nEnter choice: ");
