@@ -65,6 +65,6 @@ class program
         }
 
     OUT:
-        Console.WriteLine("\nThankyou for using phonebook");
+        Console.WriteLine("\n Thankyou for using phonebook");
     }
 }
