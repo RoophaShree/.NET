@@ -21,7 +21,7 @@ class program
                 case 1:
                     {
                         long number = 0;
-                        string name = "";
+                        string name = " ";
 
                         Console.Write("Enter your name : ");
                         name = Console.ReadLine();
