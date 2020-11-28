@@ -52,6 +52,7 @@ class program
                         }
                     }
                     break;
+
                 case 3:
                     {
                         goto OUT;
