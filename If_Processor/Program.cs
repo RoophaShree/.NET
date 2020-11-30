@@ -9,7 +9,7 @@ class Program
 #if (MY_MACRO)
         Console.WriteLine("Macro is defined ");
 #else
-            Console.WriteLine("Macro is not defined");
+            Console.WriteLine("Macro is not defined ");
 #endif
     }
 }
