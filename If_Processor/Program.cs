@@ -1,6 +1,6 @@
 ﻿#define MY_MACRO
 using System;
-using System.Diagnostics;
+//using System.Diagnostics;
 
 class Program
 {
