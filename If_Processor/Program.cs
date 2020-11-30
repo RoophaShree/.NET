@@ -1,4 +1,4 @@
-﻿#define MY_MACRO
+﻿//#define MY_MACRO
 using System;
 using System.Diagnostics;
 
