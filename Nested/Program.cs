@@ -4,9 +4,9 @@ using System.Text;
 
 namespace IncludeHelp
 {
-    class Test
+    class Program
     {
-        // Main Method 
+        
         static void Main(string[] args)
         {
             //finding largest of three  numbers 
