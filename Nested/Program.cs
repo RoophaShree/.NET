@@ -27,7 +27,7 @@ namespace IncludeHelp
 
             Console.WriteLine("Largest number is {0}", large);
 
-            //hit ENTER to exit the program
+            
             Console.ReadLine();
         }
     }
