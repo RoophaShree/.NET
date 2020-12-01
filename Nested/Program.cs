@@ -14,7 +14,7 @@ namespace IncludeHelp
             int b;
             int c;
 
-            //input numbers 
+            
             Console.Write("Enter first number : ");
             a = Convert.ToInt32(Console.ReadLine());
             Console.Write("Enter second number: ");
