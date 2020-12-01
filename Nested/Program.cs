@@ -22,7 +22,7 @@ namespace IncludeHelp
             Console.Write("Enter third number : ");
             c = Convert.ToInt32(Console.ReadLine());
 
-            //finding largest number
+            
             int large = (a > b) ? ((a > c) ? a : c) : (b > c ? b : c);
 
             Console.WriteLine("Largest number is {0}", large);
