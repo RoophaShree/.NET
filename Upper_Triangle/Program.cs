@@ -12,7 +12,7 @@ namespace Upper_Triangle
             int row = 3;
             int col = 3;
 
-            int[ ,] Matrix = new int[row, col];
+            int[ , ] Matrix = new int[row, col];
 
             Console.Write("Enter the elements of matrix: ");
             for (i = 0; i < row; i++)
