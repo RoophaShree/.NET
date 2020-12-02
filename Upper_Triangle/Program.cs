@@ -37,6 +37,7 @@ namespace Upper_Triangle
             Console.WriteLine("Upper triangular matrix: ");
             for (i = 0; i < row; i++)
             {
+
                 Console.WriteLine();
                 for (j = 0; j < col; j++)
                 {
