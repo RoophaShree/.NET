@@ -46,7 +46,7 @@ namespace Upper_Triangle
                         Console.Write(" \t");
                 }
             }
-            Console.WriteLine();
+           // Console.WriteLine();
         }
     }
 }
