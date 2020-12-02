@@ -28,7 +28,7 @@ namespace Upper_Triangle
             {
                 for (j = 0; j < col; j++)
                 {
-                    Console.Write(Matrix[i, j] + "\t");
+                    Console.Write(Matrix[i, j] +  "\t");
 
                 }
                 Console.WriteLine();
