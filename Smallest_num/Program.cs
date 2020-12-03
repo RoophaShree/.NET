@@ -8,7 +8,7 @@ namespace Smallest_num
 		{
 			int i = 0;
 			int small = 0;
-			//integer array declaration
+		
 			int[] arr = new int[5];
 
 			Console.WriteLine("Enter array elements : ");
