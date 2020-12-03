@@ -12,7 +12,7 @@ namespace Smallest_num
 			int[] arr = new int[5];
 
 			Console.WriteLine("Enter array elements : ");
-			//read array elements
+			
 			for (i = 0; i < arr.Length; i++)
 			{
 				Console.Write("Element[" + (i + 1) + "]: ");
