@@ -29,7 +29,7 @@ namespace Smallest_num
 					small = arr[i];
 			}
 
-			//finally print the smallest elemeent of the integer array
+			
 			Console.WriteLine("Smallest element in array is : " + small);
 		}
 	}
