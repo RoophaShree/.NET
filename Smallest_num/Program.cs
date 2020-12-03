@@ -6,6 +6,7 @@ namespace Smallest_num
 	{
 		static void Main(string[] args)
 		{
+
 			int i = 0;
 			int small = 0;
 		
