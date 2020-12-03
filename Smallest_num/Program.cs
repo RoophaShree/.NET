@@ -19,8 +19,7 @@ namespace Smallest_num
 				arr[i] = int.Parse(Console.ReadLine());
 			}
 
-			//assign fist element to the 'small' 
-			//compare it with other array elements
+			
 			small = arr[0];
 
 			for (i = 1; i < arr.Length; i++)
