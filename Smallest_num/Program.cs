@@ -24,8 +24,7 @@ namespace Smallest_num
 
 			for (i = 1; i < arr.Length; i++)
 			{
-				//compare if small is greater than of any element of the array
-				//assign that element in it.
+				
 				if (small > arr[i])
 					small = arr[i];
 			}
