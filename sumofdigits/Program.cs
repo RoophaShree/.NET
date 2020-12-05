@@ -6,7 +6,7 @@ namespace sumofdigits
     {
         static void Main(string[] args)
         {
-			int a = 5675, sum = 0, b;
+			int a = 5675, sum= 0, b;
 
 			
 			while (a != 0)
