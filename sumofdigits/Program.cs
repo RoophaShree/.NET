@@ -15,7 +15,7 @@ namespace sumofdigits
 				sum = sum + b;   
 				a = a / 10;      
 			}
-			Console.WriteLine("The sum of the digits is: " + sum);
+			Console.WriteLine("The sum of the digits is: "  + sum);
 		}
 	}
 }
