@@ -11,9 +11,9 @@ namespace sumofdigits
 			
 			while (a != 0)
 			{
-				b = a % 10;       //extract a digit
-				sum = sum + b;   //adding the digits
-				a = a / 10;      //remained number
+				b = a % 10;      
+				sum = sum + b;   
+				a = a / 10;      
 			}
 			Console.WriteLine("The sum of the digits is: " + sum);
 		}
