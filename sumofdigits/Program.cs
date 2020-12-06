@@ -6,14 +6,14 @@ namespace sumofdigits
     {
         static void Main(string[] args)
         {
-			int a = 5675, sum= 0, b;
+			int c = 5675, sum= 0, b;
 
 			
-			while (a != 0)
+			while (c!= 0)
 			{
-				b = a % 10;      
+				b = c % 10;      
 				sum = sum + b;   
-				a = a / 10;      
+				c = c / 10;      
 			}
 
 			Console.WriteLine("The sum of the digits is: "  + sum);
