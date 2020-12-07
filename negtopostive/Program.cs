@@ -20,7 +20,7 @@ namespace negtopostive
             {
                 Console.Write(arr[loop] + " ");
             }
-            Console.WriteLine();
+            //Console.WriteLine();
         }
     }
 }
