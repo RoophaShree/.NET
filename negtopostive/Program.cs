@@ -12,7 +12,7 @@ namespace negtopostive
             for (loop = 0; loop < arr.Length; loop++)
             {
                 if (arr[loop] < 0)
-                    arr[loop]= -arr[loop];
+                    arr[loop] = -arr[loop];
             }
 
             Console.WriteLine("Array elements after conversion:");
