@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "find_dimension_of_array", "find_dimension_of_array.csproj", "{A313A709-57DF-4F0B-9AE5-84DFB4A1F086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A313A709-57DF-4F0B-9AE5-84DFB4A1F086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A313A709-57DF-4F0B-9AE5-84DFB4A1F086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A313A709-57DF-4F0B-9AE5-84DFB4A1F086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A313A709-57DF-4F0B-9AE5-84DFB4A1F086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB33F7EF-BA04-4D51-BDD9-160CDF618B7D}
+	EndGlobalSection
+EndGlobal
